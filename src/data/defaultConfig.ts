@@ -9,11 +9,11 @@ export const defaultConfig: BioLinkConfig = {
     avatarUrl: profileImg,
     isVerified: true,
     openSpotsBadge: "🔴 RESTAM APENAS 3 VAGAS PARA ESTE MÊS",
-    whatsappNumber: "5511999999999",
+    whatsappNumber: "5531991660594",
     stats: [
-      { id: "1", value: "+500", label: "Alunos" },
-      { id: "2", value: "98%", label: "Aprovação" },
-      { id: "3", value: "8 Anos", label: "Experiência" }
+      { id: "1", value: "-25kg", label: "em 180 dias" },
+      { id: "2", value: "100%", label: "Natural" },
+      { id: "3", value: "Foco", label: "E Disciplina" }
     ]
   },
   socials: {
@@ -34,17 +34,6 @@ export const defaultConfig: BioLinkConfig = {
       type: "modal_plans",
       featured: true,
       animation: "glow"
-    },
-    {
-      id: "link-testimonials",
-      title: "🏆 RESULTADOS REAIS (ANTES & DEPOIS)",
-      subtitle: "Confira fotos de transformações reais de alunos em 8 a 12 semanas",
-      iconName: "Trophy",
-      badge: "PROVA SOCIAL",
-      badgeColor: "cyan",
-      type: "modal_testimonials",
-      featured: false,
-      animation: "pulse"
     },
     {
       id: "link-macro",

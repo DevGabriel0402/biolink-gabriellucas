@@ -21,13 +21,16 @@ export const App: React.FC = () => {
         let jsonStr = saved.replace(/Coach Lucas/g, 'Consultor Gabriel').replace(/Coach Gabriel/g, 'Consultor Gabriel');
         const parsed = JSON.parse(jsonStr);
 
-        // Update profile avatar and name automatically
+        // Update profile avatar, name and whatsapp number automatically
         if (parsed.profile) {
           parsed.profile.avatarUrl = defaultConfig.profile.avatarUrl;
           parsed.profile.name = "Gabriel Lucas";
+          parsed.profile.whatsappNumber = "5531991660594";
+          parsed.profile.stats = defaultConfig.profile.stats;
         }
 
         if (parsed.links) {
+          parsed.links = parsed.links.filter((l: any) => l.id !== 'link-testimonials' && l.type !== 'modal_testimonials');
           parsed.links.forEach((l: any) => {
             if (l.subtitle) l.subtitle = l.subtitle.replace(/Coach Lucas/g, 'Consultor Gabriel').replace(/Coach Gabriel/g, 'Consultor Gabriel');
             if (l.whatsappMsg) l.whatsappMsg = l.whatsappMsg.replace(/Olá Lucas!/g, 'Olá Gabriel!').replace(/Lucas/g, 'Gabriel');
