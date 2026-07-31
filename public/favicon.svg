@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#18222b"/>
+      <stop offset="100%" stop-color="#0a0c0e"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="50%" stop-color="#00e5a3"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <filter id="glowEffect" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <!-- Background Card -->
+  <rect width="512" height="512" rx="128" fill="url(#bgGlow)"/>
+  <rect width="500" height="500" x="6" y="6" rx="122" fill="none" stroke="url(#accentGrad)" stroke-width="8" stroke-opacity="0.5"/>
+  
+  <!-- Central Glowing Lightning / Fitness Symbol -->
+  <g filter="url(#glowEffect)">
+    <path d="M 290 110 L 195 265 L 265 265 L 215 402 L 325 235 L 255 235 Z" fill="url(#accentGrad)"/>
+  </g>
+</svg>
