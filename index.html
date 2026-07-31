@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <script>
+    // Desregistrar qualquer Service Worker antigo de outros projetos (ex: TONE.AI / Workbox)
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(function (registrations) {
+        for (let registration of registrations) {
+          registration.unregister();
+        }
+      });
+    }
+    if ('caches' in window) {
+      caches.keys().then(function (names) {
+        for (let name of names) caches.delete(name);
+      });
+    }
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Gabriel Lucas | Consultoria Fitness & Treinamento Online</title>
+  <meta name="description"
+    content="Transforme seu corpo em 90 dias com acompanhamento 100% individualizado do personal trainer Gabriel Silva. Treinos sob medida, plano alimentar flexível e suporte diário via WhatsApp." />
+  <meta name="theme-color" content="#0d0f12" />
+
+  <!-- Open Graph / Meta Instagram / Social -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Gabriel Lucas | Consultoria Fitness Online" />
+  <meta property="og:description"
+    content="Conquiste o corpo dos seus sonhos com consultoria online 1-on-1 altamente otimizada." />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@400;600;800;900&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+
+</html>
