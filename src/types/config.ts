@@ -29,9 +29,10 @@ export type LinkType =
   | 'modal_testimonials'
   | 'modal_macro'
   | 'modal_ebook'
+  | 'modal_pratique'
   | 'external';
 
-export type LinkBadgeColor = 'emerald' | 'amber' | 'rose' | 'cyan' | 'purple';
+export type LinkBadgeColor = 'emerald' | 'amber' | 'rose' | 'cyan' | 'purple' | 'red';
 
 export interface LinkItem {
   id: string;

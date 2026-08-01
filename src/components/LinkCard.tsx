@@ -9,7 +9,8 @@ import {
   FaDumbbell as Dumbbell, 
   FaBolt as Zap, 
   FaChevronRight as ChevronRight,
-  FaBullseye as Target
+  FaBullseye as Target,
+  FaTag as Tag
 } from 'react-icons/fa6';
 import { HiSparkles as Sparkles } from 'react-icons/hi2';
 import { FiExternalLink as ExternalLink } from 'react-icons/fi';
@@ -33,6 +34,7 @@ export const LinkCard: React.FC<LinkCardProps> = ({ link, onClick }) => {
       case 'Zap': return <Zap {...props} />;
       case 'Sparkles': return <Sparkles {...props} />;
       case 'Target': return <Target {...props} />;
+      case 'Tag': return <Tag {...props} />;
       default: return <ExternalLink {...props} />;
     }
   };

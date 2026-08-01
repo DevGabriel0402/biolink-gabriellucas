@@ -26,7 +26,7 @@ export const defaultConfig: BioLinkConfig = {
   links: [
     {
       id: "link-plans",
-      title: "🔥 CONSULTORIA ONLINE VIP 1-ON-1",
+      title: "🔥 CONSULTORIA ONLINE",
       subtitle: "Treino sob medida + Plano Alimentar Flexível + Acompanhamento diário no WhatsApp",
       iconName: "Flame",
       badge: "⭐ O MAIS PEDIDO",
@@ -34,6 +34,17 @@ export const defaultConfig: BioLinkConfig = {
       type: "modal_plans",
       featured: true,
       animation: "glow"
+    },
+    {
+      id: "link-pratique-discount",
+      title: "🎁 Faça sua Matrícula na Pratique e Ganhe o Saver Club",
+      subtitle: "Isenção de R$ 99,90 na taxa de matrícula + Saver Club (Válido a partir do Plano Plus)",
+      iconName: "Tag",
+      badge: "VÁLIDO NO PLANO PLUS",
+      badgeColor: "red",
+      type: "modal_pratique",
+      featured: true,
+      animation: "pulse"
     },
     {
       id: "link-macro",

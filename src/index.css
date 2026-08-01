@@ -353,6 +353,7 @@ body::before {
 .card-badge.cyan { background: var(--color-cyan); color: var(--text-dark); }
 .card-badge.emerald { background: var(--color-emerald); color: #fff; }
 .card-badge.purple { background: var(--color-purple); color: #fff; }
+.card-badge.red { background: #ef4444; color: #fff; }
 
 .chevron-icon {
   color: var(--text-muted);

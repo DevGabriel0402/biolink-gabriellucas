@@ -8,6 +8,7 @@ import { PlanComparison } from './components/PlanComparison';
 import { TestimonialModal } from './components/TestimonialModal';
 import { MacroCalculator } from './components/MacroCalculator';
 import { LeadMagnetModal } from './components/LeadMagnetModal';
+import { PratiqueModal } from './components/PratiqueModal';
 import { EditorModal } from './components/EditorModal';
 import { FiSettings as Settings } from 'react-icons/fi';
 import { FaShieldHalved as ShieldCheck, FaHeart as Heart } from 'react-icons/fa6';
@@ -31,7 +32,29 @@ export const App: React.FC = () => {
 
         if (parsed.links) {
           parsed.links = parsed.links.filter((l: any) => l.id !== 'link-testimonials' && l.type !== 'modal_testimonials');
+          const hasPratique = parsed.links.some((l: any) => l.type === 'modal_pratique');
+          if (!hasPratique) {
+            parsed.links.splice(1, 0, {
+              id: "link-pratique-discount",
+              title: "🎁 DESCONTO 1ª PARCELA PRATIQUE FITNESS",
+              subtitle: "Venha pegar seu desconto na primeira parcela em qualquer unidade da Pratique Fitness",
+              iconName: "Tag",
+              badge: "CUPOM EXCLUSIVO",
+              badgeColor: "red",
+              type: "modal_pratique",
+              featured: true,
+              animation: "pulse"
+            });
+          }
           parsed.links.forEach((l: any) => {
+            if (l.id === 'link-plans' || l.type === 'modal_plans') {
+              l.title = "🔥 CONSULTORIA ONLINE";
+            }
+            if (l.type === 'modal_pratique') {
+              l.title = "🎁 Faça sua Matrícula na Pratique e Ganhe o Saver Club";
+              l.subtitle = "Isenção de R$ 99,90 na taxa de matrícula + Saver Club (Válido a partir do Plano Plus)";
+              l.badge = "VÁLIDO NO PLANO PLUS";
+            }
             if (l.subtitle) l.subtitle = l.subtitle.replace(/Coach Lucas/g, 'Consultor Gabriel').replace(/Coach Gabriel/g, 'Consultor Gabriel');
             if (l.whatsappMsg) l.whatsappMsg = l.whatsappMsg.replace(/Olá Lucas!/g, 'Olá Gabriel!').replace(/Lucas/g, 'Gabriel');
           });
@@ -57,6 +80,7 @@ export const App: React.FC = () => {
   const [isTestimonialsOpen, setIsTestimonialsOpen] = useState(false);
   const [isMacroOpen, setIsMacroOpen] = useState(false);
   const [isEbookOpen, setIsEbookOpen] = useState(false);
+  const [isPratiqueOpen, setIsPratiqueOpen] = useState(false);
   const [isEditorOpen, setIsEditorOpen] = useState(false);
 
   // Router listener for /editar path
@@ -112,6 +136,9 @@ export const App: React.FC = () => {
         break;
       case 'modal_ebook':
         setIsEbookOpen(true);
+        break;
+      case 'modal_pratique':
+        setIsPratiqueOpen(true);
         break;
       case 'whatsapp': {
         const cleanPhone = config.profile.whatsappNumber.replace(/\D/g, '');
@@ -241,6 +268,11 @@ export const App: React.FC = () => {
         onClose={() => setIsEbookOpen(false)}
         whatsappNumber={config.profile.whatsappNumber}
         ebooks={config.ebooks}
+      />
+
+      <PratiqueModal
+        isOpen={isPratiqueOpen}
+        onClose={() => setIsPratiqueOpen(false)}
       />
 
       <EditorModal
