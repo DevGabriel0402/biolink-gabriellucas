@@ -21,6 +21,7 @@ export const SocialLinks: React.FC<SocialLinksProps> = ({ socials }) => {
           target="_blank"
           rel="noopener noreferrer"
           title="Instagram"
+          aria-label="Abrir Instagram de Gabriel Lucas"
           style={socialIconStyle}
         >
           <Instagram size={20} />
@@ -33,6 +34,7 @@ export const SocialLinks: React.FC<SocialLinksProps> = ({ socials }) => {
           target="_blank"
           rel="noopener noreferrer"
           title="WhatsApp Direct"
+          aria-label="Conversar com Gabriel Lucas no WhatsApp"
           style={socialIconStyle}
         >
           <Phone size={20} />
@@ -44,6 +46,7 @@ export const SocialLinks: React.FC<SocialLinksProps> = ({ socials }) => {
         <a
           href={`mailto:${socials.email}`}
           title="Enviar E-mail"
+          aria-label="Enviar e-mail para Gabriel Lucas"
           style={socialIconStyle}
         >
           <Mail size={20} />

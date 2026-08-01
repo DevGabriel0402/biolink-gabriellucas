@@ -5,7 +5,7 @@ export const defaultConfig: BioLinkConfig = {
   profile: {
     name: "Gabriel Lucas",
     title: "Personal Trainer & Consultor Online",
-    bio: "⚡ Conquiste o corpo dos seus sonhos em 90 dias com meu método de treino individualizado e dieta sem passar fome. +500 vidas transformadas.",
+    bio: "⚡ Avaliação fitness gratuita, ferramentas práticas e consultoria personalizada para evoluir com clareza, constância e estratégia.",
     avatarUrl: profileImg,
     isVerified: true,
     openSpotsBadge: "🔴 RESTAM APENAS 3 VAGAS PARA ESTE MÊS",
@@ -48,10 +48,10 @@ export const defaultConfig: BioLinkConfig = {
     },
     {
       id: "link-macro",
-      title: "📊 CALCULADORA DE MACROS, CALORIAS & IMC",
-      subtitle: "Calcule grátis seu IMC, calorias e proteínas diárias para trincar ou ganhar massa",
+      title: "⚡ CENTRAL FITNESS & AVALIAÇÃO COMPLETA",
+      subtitle: "Avaliação, calorias, macros, água, corrida, cargas e cartão para Stories",
       iconName: "Calculator",
-      badge: "FERRAMENTA GRÁTIS",
+      badge: "5 FERRAMENTAS GRÁTIS",
       badgeColor: "emerald",
       type: "modal_macro",
       featured: false,

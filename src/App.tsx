@@ -1,17 +1,24 @@
-import React, { useState, useEffect } from 'react';
+import React, { Suspense, lazy, useState, useEffect } from 'react';
 import { BioLinkConfig, LinkItem } from './types/config';
 import { defaultConfig } from './data/defaultConfig';
 import { Header } from './components/Header';
 import { SocialLinks } from './components/SocialLinks';
 import { LinkCard } from './components/LinkCard';
-import { PlanComparison } from './components/PlanComparison';
-import { TestimonialModal } from './components/TestimonialModal';
-import { MacroCalculator } from './components/MacroCalculator';
-import { LeadMagnetModal } from './components/LeadMagnetModal';
-import { PratiqueModal } from './components/PratiqueModal';
-import { EditorModal } from './components/EditorModal';
 import { FiSettings as Settings } from 'react-icons/fi';
-import { FaShieldHalved as ShieldCheck, FaHeart as Heart } from 'react-icons/fa6';
+import { FaShieldHalved as ShieldCheck } from 'react-icons/fa6';
+
+const PlanComparison = lazy(() => import('./components/PlanComparison').then((module) => ({ default: module.PlanComparison })));
+const TestimonialModal = lazy(() => import('./components/TestimonialModal').then((module) => ({ default: module.TestimonialModal })));
+const MacroCalculator = lazy(() => import('./components/MacroCalculator').then((module) => ({ default: module.MacroCalculator })));
+const LeadMagnetModal = lazy(() => import('./components/LeadMagnetModal').then((module) => ({ default: module.LeadMagnetModal })));
+const PratiqueModal = lazy(() => import('./components/PratiqueModal').then((module) => ({ default: module.PratiqueModal })));
+const EditorModal = lazy(() => import('./components/EditorModal').then((module) => ({ default: module.EditorModal })));
+
+const ModalLoading = () => (
+  <div className="modal-overlay" role="status" aria-live="polite">
+    <div className="modal-loading-card"><span className="modal-loading-spinner" /><strong>Preparando ferramenta...</strong></div>
+  </div>
+);
 
 export const App: React.FC = () => {
   // Load initial config from LocalStorage or default
@@ -26,6 +33,8 @@ export const App: React.FC = () => {
         if (parsed.profile) {
           parsed.profile.avatarUrl = defaultConfig.profile.avatarUrl;
           parsed.profile.name = "Gabriel Lucas";
+          parsed.profile.title = defaultConfig.profile.title;
+          parsed.profile.bio = defaultConfig.profile.bio;
           parsed.profile.whatsappNumber = "5531991660594";
           parsed.profile.stats = defaultConfig.profile.stats;
         }
@@ -54,6 +63,11 @@ export const App: React.FC = () => {
               l.title = "🎁 Faça sua Matrícula na Pratique e Ganhe o Saver Club";
               l.subtitle = "Isenção de R$ 99,90 na taxa de matrícula + Saver Club (Válido a partir do Plano Plus)";
               l.badge = "VÁLIDO NO PLANO PLUS";
+            }
+            if (l.type === 'modal_macro') {
+              l.title = "⚡ CENTRAL FITNESS & AVALIAÇÃO COMPLETA";
+              l.subtitle = "Avaliação, calorias, macros, água, corrida, cargas e cartão para Stories";
+              l.badge = "5 FERRAMENTAS GRÁTIS";
             }
             if (l.subtitle) l.subtitle = l.subtitle.replace(/Coach Lucas/g, 'Consultor Gabriel').replace(/Coach Gabriel/g, 'Consultor Gabriel');
             if (l.whatsappMsg) l.whatsappMsg = l.whatsappMsg.replace(/Olá Lucas!/g, 'Olá Gabriel!').replace(/Lucas/g, 'Gabriel');
@@ -166,42 +180,33 @@ export const App: React.FC = () => {
   return (
     <div className="app-viewport">
       <main className="bio-card-wrapper">
-        {/* Profile Header */}
-        <Header profile={config.profile} />
-
-        {/* Social Icons */}
-        <SocialLinks socials={config.socials} />
-
-        {/* Interactive Link Cards List */}
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
-          {config.links.map((link) => (
-            <LinkCard
-              key={link.id}
-              link={link}
-              onClick={handleLinkClick}
-            />
-          ))}
-        </div>
-
-        {/* Footer */}
-        <footer style={{
-          marginTop: '20px',
-          textAlign: 'center',
-          display: 'flex',
-          flexDirection: 'column',
-          alignItems: 'center',
-          gap: '8px',
-          color: 'var(--text-muted)',
-          fontSize: '0.775rem'
-        }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-            <ShieldCheck size={14} color="var(--color-accent)" />
-            <span>Consultoria VIP • Todos os Direitos Reservados</span>
+        <section className="bio-profile-panel">
+          <Header profile={config.profile} />
+          <SocialLinks socials={config.socials} />
+          <div className="bio-profile-note">
+            <ShieldCheck size={16} />
+            <span>Orientação clara, ferramentas gratuitas e acompanhamento próximo.</span>
           </div>
-          <p style={{ opacity: 0.6 }}>
-            BioLink Otimizada para Alta Conversão no Instagram
-          </p>
-        </footer>
+        </section>
+
+        <section className="bio-actions-panel">
+          <div className="bio-actions-heading">
+            <span>Comece por aqui</span>
+            <h2>Escolha o próximo passo para o seu objetivo</h2>
+            <p>Avalie seu momento, encontre uma academia ou conheça a consultoria.</p>
+          </div>
+
+          <div className="bio-links-list">
+            {config.links.map((link) => (
+              <LinkCard key={link.id} link={link} onClick={handleLinkClick} />
+            ))}
+          </div>
+
+          <footer className="bio-footer">
+            <div><ShieldCheck size={14} color="var(--color-accent)" /><span>Consultoria VIP • Todos os direitos reservados</span></div>
+            <p>BioLink oficial de @ogabriielvieira</p>
+          </footer>
+        </section>
       </main>
 
       {/* Top Banner on /editar Route Only */}
@@ -243,45 +248,14 @@ export const App: React.FC = () => {
       )}
 
       {/* Interactive Modals */}
-      <PlanComparison
-        isOpen={isPlansOpen}
-        onClose={() => setIsPlansOpen(false)}
-        plans={config.plans}
-        whatsappNumber={config.profile.whatsappNumber}
-      />
-
-      <TestimonialModal
-        isOpen={isTestimonialsOpen}
-        onClose={() => setIsTestimonialsOpen(false)}
-        testimonials={config.testimonials || []}
-        whatsappNumber={config.profile.whatsappNumber}
-      />
-
-      <MacroCalculator
-        isOpen={isMacroOpen}
-        onClose={() => setIsMacroOpen(false)}
-        whatsappNumber={config.profile.whatsappNumber}
-      />
-
-      <LeadMagnetModal
-        isOpen={isEbookOpen}
-        onClose={() => setIsEbookOpen(false)}
-        whatsappNumber={config.profile.whatsappNumber}
-        ebooks={config.ebooks}
-      />
-
-      <PratiqueModal
-        isOpen={isPratiqueOpen}
-        onClose={() => setIsPratiqueOpen(false)}
-      />
-
-      <EditorModal
-        isOpen={isEditorOpen}
-        onClose={handleCloseEditor}
-        config={config}
-        onChangeConfig={setConfig}
-        onResetDefault={handleResetDefault}
-      />
+      <Suspense fallback={<ModalLoading />}>
+        {isPlansOpen && <PlanComparison isOpen onClose={() => setIsPlansOpen(false)} plans={config.plans} whatsappNumber={config.profile.whatsappNumber} />}
+        {isTestimonialsOpen && <TestimonialModal isOpen onClose={() => setIsTestimonialsOpen(false)} testimonials={config.testimonials || []} whatsappNumber={config.profile.whatsappNumber} />}
+        {isMacroOpen && <MacroCalculator isOpen onClose={() => setIsMacroOpen(false)} whatsappNumber={config.profile.whatsappNumber} />}
+        {isEbookOpen && <LeadMagnetModal isOpen onClose={() => setIsEbookOpen(false)} whatsappNumber={config.profile.whatsappNumber} ebooks={config.ebooks} />}
+        {isPratiqueOpen && <PratiqueModal isOpen onClose={() => setIsPratiqueOpen(false)} />}
+        {isEditorOpen && <EditorModal isOpen onClose={handleCloseEditor} config={config} onChangeConfig={setConfig} onResetDefault={handleResetDefault} />}
+      </Suspense>
     </div>
   );
 };

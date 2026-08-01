@@ -3,53 +3,47 @@
 
 <head>
   <meta charset="UTF-8" />
-  <script>
-    // Desregistrar qualquer Service Worker antigo de outros projetos (ex: TONE.AI / Workbox)
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.getRegistrations().then(function (registrations) {
-        for (let registration of registrations) {
-          registration.unregister();
-        }
-      });
-    }
-    if ('caches' in window) {
-      caches.keys().then(function (names) {
-        for (let name of names) caches.delete(name);
-      });
-    }
-  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <!-- Favicons -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="apple-touch-icon" href="/favicon.svg" />
   <link rel="shortcut icon" href="/favicon.svg" type="image/svg+xml" />
 
   <!-- SEO Primary Meta Tags -->
-  <title>Gabriel Lucas | Consultoria Fitness & Personal Trainer Online</title>
-  <meta name="title" content="Gabriel Lucas | Consultoria Fitness & Personal Trainer Online" />
+  <title>Gabriel Lucas | Avaliação Fitness e Consultoria Online</title>
+  <meta name="title" content="Gabriel Lucas | Avaliação Fitness e Consultoria Online" />
   <meta name="description"
-    content="Transforme seu corpo em 90 dias com acompanhamento 100% individualizado do personal trainer Gabriel Lucas. Treinos sob medida, déficit calórico flexível e suporte diário via WhatsApp." />
+    content="Faça sua avaliação fitness gratuita, calcule IMC, calorias e macros, encontre uma academia próxima e conheça a consultoria online de Gabriel Lucas." />
   <meta name="keywords"
     content="consultoria fitness, personal trainer online, gabriel lucas, treino personalizado, dieta flexivel, emagrecimento, hipertrofia, fitness bio" />
   <meta name="author" content="Gabriel Lucas" />
   <meta name="robots" content="index, follow" />
   <meta name="theme-color" content="#0a0c0e" />
+  <meta name="color-scheme" content="dark" />
+  <link rel="canonical" href="https://biofit-consultoria.vercel.app/" />
 
   <!-- Open Graph / Facebook / WhatsApp / Instagram / Telegram -->
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://biofit-consultoria.vercel.app" />
-  <meta property="og:title" content="Gabriel Lucas | Consultoria Fitness & Personal Trainer Online" />
+  <meta property="og:url" content="https://biofit-consultoria.vercel.app/" />
+  <meta property="og:title" content="Avaliação Fitness Grátis | Gabriel Lucas" />
   <meta property="og:description"
-    content="Conquiste o corpo dos seus sonhos em 90 dias com treino sob medida e acompanhamento diário no WhatsApp." />
-  <meta property="og:image" content="https://biofit-consultoria.vercel.app/mockup.png" />
+    content="Descubra seu IMC, meta calórica, macros e muito mais. Gere seu cartão para Stories e encontre uma academia próxima." />
+  <meta property="og:image" content="https://biofit-consultoria.vercel.app/og-preview.jpg" />
+  <meta property="og:image:secure_url" content="https://biofit-consultoria.vercel.app/og-preview.jpg" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Gabriel Lucas — Avaliação Fitness Grátis — @ogabriielvieira" />
   <meta property="og:site_name" content="Consultoria Gabriel Lucas" />
   <meta property="og:locale" content="pt_BR" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Gabriel Lucas | Consultoria Fitness Online" />
+  <meta name="twitter:title" content="Avaliação Fitness Grátis | Gabriel Lucas" />
   <meta name="twitter:description"
-    content="Transforme seu corpo com o Consultor Gabriel Lucas. Treino 100% individualizado e suporte no WhatsApp." />
-  <meta name="twitter:image" content="/favicon.svg" />
+    content="Descubra seu IMC, meta calórica e macros e gere um cartão personalizado para Stories." />
+  <meta name="twitter:image" content="https://biofit-consultoria.vercel.app/og-preview.jpg" />
+  <meta name="twitter:image:alt" content="Gabriel Lucas — Avaliação Fitness Grátis" />
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">

@@ -1,6 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import { X, Search, MapPin, ChevronRight, ExternalLink, Sparkles } from 'lucide-react';
 import { PRATIQUE_UNIDADES_LIST, PratiqueUnit } from '../data/pratiqueUnits';
+import { PratiqueMap } from './PratiqueMap';
 
 interface PratiqueModalProps {
   isOpen: boolean;
@@ -36,6 +37,7 @@ const hasLuta = (unitName: string) => {
 export const PratiqueModal: React.FC<PratiqueModalProps> = ({ isOpen, onClose }) => {
   const [searchTerm, setSearchTerm] = useState('');
   const [modalityFilter, setModalityFilter] = useState<ModalityFilter>('all');
+  const [viewMode, setViewMode] = useState<'list' | 'map'>('list');
   const [selectedUnit, setSelectedUnit] = useState<PratiqueUnit | null>(null);
 
   const logoUrl = "https://pratiquefitness.com.br/wp-content/uploads/2022/09/ZAP-GURU-VICTOR-4-5.png";
@@ -50,8 +52,12 @@ export const PratiqueModal: React.FC<PratiqueModalProps> = ({ isOpen, onClose })
     }
 
     if (searchTerm.trim()) {
-      const term = searchTerm.toLowerCase().trim();
-      list = list.filter(u => u.name.toLowerCase().includes(term));
+      const term = searchTerm.toLocaleLowerCase('pt-BR').trim();
+      list = list.filter(u =>
+        u.name.toLocaleLowerCase('pt-BR').includes(term) ||
+        u.address.toLocaleLowerCase('pt-BR').includes(term) ||
+        u.postalCode.toLocaleLowerCase('pt-BR').includes(term)
+      );
     }
 
     return list;
@@ -77,7 +83,7 @@ export const PratiqueModal: React.FC<PratiqueModalProps> = ({ isOpen, onClose })
           <X size={20} />
         </button>
 
-        <div style={{ padding: '24px 20px', display: 'flex', flexDirection: 'column', gap: '18px' }}>
+        <div className="modal-body" style={{ padding: '60px 20px 24px', display: 'flex', flexDirection: 'column', gap: '18px', overflowY: 'auto', WebkitOverflowScrolling: 'touch' as any }}>
           {/* Header with Logo */}
           <div style={{ textAlign: 'center', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '10px' }}>
             <div style={{
@@ -220,16 +226,58 @@ export const PratiqueModal: React.FC<PratiqueModalProps> = ({ isOpen, onClose })
                 />
               </div>
 
-              {/* Units List */}
-              <div style={{
-                maxHeight: '300px',
-                overflowY: 'auto',
-                display: 'flex',
-                flexDirection: 'column',
-                gap: '8px',
-                paddingRight: '4px'
-              }}>
-                {filteredUnits.length > 0 ? (
+              {/* View Mode Toggle (Lista vs Mapa Interativo) */}
+              <div style={{ display: 'flex', gap: '6px', background: 'rgba(255, 255, 255, 0.04)', padding: '4px', borderRadius: '12px', border: '1px solid var(--border-card)' }}>
+                <button
+                  onClick={() => setViewMode('list')}
+                  style={{
+                    flex: 1,
+                    background: viewMode === 'list' ? '#ef4444' : 'transparent',
+                    color: viewMode === 'list' ? '#fff' : 'var(--text-muted)',
+                    border: 'none',
+                    borderRadius: '8px',
+                    padding: '7px 10px',
+                    fontSize: '0.8rem',
+                    fontWeight: 700,
+                    cursor: 'pointer',
+                    transition: 'all 0.2s ease'
+                  }}
+                >
+                  📋 Lista ({filteredUnits.length})
+                </button>
+                <button
+                  onClick={() => setViewMode('map')}
+                  style={{
+                    flex: 1,
+                    background: viewMode === 'map' ? '#ef4444' : 'transparent',
+                    color: viewMode === 'map' ? '#fff' : 'var(--text-muted)',
+                    border: 'none',
+                    borderRadius: '8px',
+                    padding: '7px 10px',
+                    fontSize: '0.8rem',
+                    fontWeight: 700,
+                    cursor: 'pointer',
+                    transition: 'all 0.2s ease'
+                  }}
+                >
+                  🗺️ Mapa Interativo
+                </button>
+              </div>
+
+              {/* View Rendering: List or Interactive Map */}
+              {viewMode === 'map' ? (
+                <PratiqueMap units={filteredUnits} onSelectUnit={setSelectedUnit} />
+              ) : (
+                /* Units List */
+                <div style={{
+                  maxHeight: '300px',
+                  overflowY: 'auto',
+                  display: 'flex',
+                  flexDirection: 'column',
+                  gap: '8px',
+                  paddingRight: '4px'
+                }}>
+                  {filteredUnits.length > 0 ? (
                   filteredUnits.map((unit, idx) => {
                     const unitHasNatacao = hasNatacao(unit.name);
                     const unitHasLuta = hasLuta(unit.name);
@@ -304,8 +352,9 @@ export const PratiqueModal: React.FC<PratiqueModalProps> = ({ isOpen, onClose })
                   </div>
                 )}
               </div>
-            </div>
-          ) : (
+            )}
+          </div>
+        ) : (
             /* STEP 2: Saver Club Benefits & Direct Link */
             <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
               {/* Saver Club Benefits Box */}

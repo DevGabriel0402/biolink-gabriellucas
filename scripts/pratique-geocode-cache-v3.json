@@ -1,0 +1,622 @@
+{
+  "Av. Antônio Abrahão Caram, Belo Horizonte, MG, Brasil|31275-000": {
+    "lat": -19.8600054,
+    "lng": -43.96198589999999
+  },
+  "Av. Abílio Machado, 750a, Belo Horizonte, MG, Brasil|30820-000": {
+    "lat": -19.9103808,
+    "lng": -43.9981809
+  },
+  "Av. Senador José Augusto, 315, Belo Horizonte, MG, Brasil|30575-190": {
+    "lat": -19.9800117,
+    "lng": -43.9776911
+  },
+  "Av. Bernardo de Vasconcelos, 1193, Belo Horizonte, MG, Brasil|31150-000": {
+    "lat": -19.883431,
+    "lng": -43.94089
+  },
+  "R. Gentil Portugal do Brasil, 355, Belo Horizonte, MG, Brasil|30520-540": {
+    "lat": -19.937442,
+    "lng": -44.0230308
+  },
+  "R. Alípio de Castro, Belo Horizonte, MG, Brasil|30520-210": {
+    "lat": -19.8641646,
+    "lng": -43.9135882
+  },
+  "R. Barão de Monte Alto, 911, Belo Horizonte, MG, Brasil|30626-440": {
+    "lat": -20.0058364,
+    "lng": -44.0051516
+  },
+  "Av. dos Engenheiros, 167, Belo Horizonte, MG, Brasil|30840-300": {
+    "lat": -19.8921995,
+    "lng": -43.9958541
+  },
+  "R. Antônio José dos Santos, 409, Belo Horizonte, MG, Brasil|31580-000": {
+    "lat": -19.8217521,
+    "lng": -43.9970147
+  },
+  "R. Dr. Júlio Otaviano Ferreira, 151, Belo Horizonte, MG, Brasil|31170-200": {
+    "lat": -19.8859322,
+    "lng": -43.9279093
+  },
+  "R. Aiuruoca, 54, Belo Horizonte, MG, Brasil|31810-090": {
+    "lat": -19.872077,
+    "lng": -43.9216394
+  },
+  "R. Maria Ferreira da Silva, 440, Belo Horizonte, MG, Brasil|31810-000": {
+    "lat": -19.8751137,
+    "lng": -43.9146864
+  },
+  "Av. Menelick de Carvalho, 245, Belo Horizonte, MG, Brasil|30620-430": {
+    "lat": -19.9947235,
+    "lng": -44.0037966
+  },
+  "R. José Ferreira Magalhães, 403, Belo Horizonte, MG, Brasil|31740-190": {
+    "lat": -19.8339424,
+    "lng": -43.9306754
+  },
+  "Av. Flávio dos Santos, 325, Belo Horizonte, MG, Brasil|30150-310": {
+    "lat": -19.9136165,
+    "lng": -43.9254569
+  },
+  "Av. Carandaí, 41, Belo Horizonte, MG, Brasil|30130-060": {
+    "lat": -19.9297071,
+    "lng": -43.9227189
+  },
+  "Av. Brg. Eduardo Gomes, 1239, Belo Horizonte, MG, Brasil|30870-100": {
+    "lat": -19.9047533,
+    "lng": -44.0061772
+  },
+  "R. Pomba, 649, Belo Horizonte, MG, Brasil|31950-480": {
+    "lat": -19.8644702,
+    "lng": -43.8971648
+  },
+  "Av. Saramenha, 1530, Belo Horizonte, MG, Brasil|31840-220": {
+    "lat": -19.8437747,
+    "lng": -43.9185257
+  },
+  "R. Oscar Trompowsky, 555, Belo Horizonte, MG, Brasil|30441-055": {
+    "lat": -19.9332751,
+    "lng": -43.9603048
+  },
+  "R. Maria Amélia Maia, 1191, Belo Horizonte, MG, Brasil|31740-060": {
+    "lat": -19.8466412,
+    "lng": -43.9392963
+  },
+  "R. Izabel Bueno, 205, Belo Horizonte, MG, Brasil|31270-030": {
+    "lat": -19.8670129,
+    "lng": -43.9504154
+  },
+  "Av. Portugal, 90, Belo Horizonte, MG, Brasil|31710-400": {
+    "lat": -19.8384605,
+    "lng": -43.9915174
+  },
+  "R. Trem de Ferro, 97, Belo Horizonte, MG, Brasil|30664-000": {
+    "lat": -19.9907274,
+    "lng": -44.0549942
+  },
+  "Av. Senador Levindo Coelho, 1830, Belo Horizonte, MG, Brasil|30664-700": {
+    "lat": -20.0035455,
+    "lng": -44.0355471
+  },
+  "R. dos Menezes, 249, Belo Horizonte, MG, Brasil|31535-320": {
+    "lat": -19.80337,
+    "lng": -44.00043429999999
+  },
+  "Av. dos Bandeirantes, 1550, Belo Horizonte, MG, Brasil|30210-420": {
+    "lat": -19.946976,
+    "lng": -43.9179296
+  },
+  "R. Candelária, 125, Belo Horizonte, MG, Brasil|31990-120": {
+    "lat": -19.850976,
+    "lng": -43.8945743
+  },
+  "R. Mossoró, 140, Belo Horizonte, MG, Brasil|31140-110": {
+    "lat": -19.8897345,
+    "lng": -43.9349879
+  },
+  "R. Santa Leopoldina, 77, Belo Horizonte, MG, Brasil|31870-220": {
+    "lat": -19.849327,
+    "lng": -43.9077129
+  },
+  "R. Monteiro Lobato, 167, Belo Horizonte, MG, Brasil|31310-530": {
+    "lat": -19.8715534,
+    "lng": -43.98354579999999
+  },
+  "Av. Dom João VI, 1581, Belo Horizonte, MG, Brasil|30575-815": {
+    "lat": -19.9698727,
+    "lng": -43.9802106
+  },
+  "Av. Dom Pedro I, 402, Belo Horizonte, MG, Brasil|31530-010": {
+    "lat": -19.8416384,
+    "lng": -43.9668138
+  },
+  "Av. Santa Terezinha, 231, Belo Horizonte, MG, Brasil|31330-000": {
+    "lat": -19.8689799,
+    "lng": -43.9979534
+  },
+  "Av. Gen. Carlos Guedes, 206, Belo Horizonte, MG, Brasil|31720-500": {
+    "lat": -19.8388376,
+    "lng": -43.9493798
+  },
+  "Av. Francisco Sá, 197, Belo Horizonte, MG, Brasil|30411-145": {
+    "lat": -19.9240603,
+    "lng": -43.959072
+  },
+  "Av. Bernarda Silvestre, 78, Belo Horizonte, MG, Brasil|31535-010": {
+    "lat": -19.8173905,
+    "lng": -43.9832414
+  },
+  "R. Conselheiro Lafaiete, 1416, Belo Horizonte, MG, Brasil|31030-010": {
+    "lat": -19.8997123,
+    "lng": -43.9230305
+  },
+  "Av. Mem de Sá, 271, Belo Horizonte, MG, Brasil|30260-270": {
+    "lat": -19.9200486,
+    "lng": -43.91055739999999
+  },
+  "R. Contagem, 1740, Belo Horizonte, MG, Brasil|30820-000": {
+    "lat": -19.8813193,
+    "lng": -43.9080135
+  },
+  "Av. José Cândido da Silveira, 2790, Belo Horizonte, MG, Brasil|31170-000": {
+    "lat": -19.8780422,
+    "lng": -43.9110168
+  },
+  "R. Érico Veríssimo, 2345, Belo Horizonte, MG, Brasil|31520-000": {
+    "lat": -19.823893,
+    "lng": -43.979322
+  },
+  "R. Michel Jeha, 178, Belo Horizonte, MG, Brasil|30350-010": {
+    "lat": -19.9540401,
+    "lng": -43.9484888
+  },
+  "R. Anapurus, 49, Belo Horizonte, MG, Brasil|31980-140": {
+    "lat": -19.8563984,
+    "lng": -43.920288
+  },
+  "R. Potomaio, 500, Belo Horizonte, MG, Brasil|31050-410": {
+    "lat": -19.9015063,
+    "lng": -43.8971233
+  },
+  "Av. Serrana, 970, Belo Horizonte, MG, Brasil|30882-370": {
+    "lat": -19.8771799,
+    "lng": -44.0121688
+  },
+  "Av. Nélio Cerqueira, 1981, Belo Horizonte, MG, Brasil|30662-060": {
+    "lat": -19.993788,
+    "lng": -44.0445603
+  },
+  "R. Major Avila Goulart, 113, Belo Horizonte, MG, Brasil|31740-020": {
+    "lat": -19.8293035,
+    "lng": -43.9529601
+  },
+  "Av. Vilarinho, 5771, Belo Horizonte, MG, Brasil|31615-250": {
+    "lat": -19.8016307,
+    "lng": -43.9862269
+  },
+  "R. Paiva, 39, Belo Horizonte, MG, Brasil|30514-040": {
+    "lat": -19.9514649,
+    "lng": -43.999579
+  },
+  "Alameda dos Sabiás, 752, Contagem, MG, Brasil|32141-110": {
+    "lat": -19.8780625,
+    "lng": -44.0440461
+  },
+  "Alameda dos Sabiás, 723, Contagem, MG, Brasil|32141-110": {
+    "lat": -19.8785235,
+    "lng": -44.04412809999999
+  },
+  "R. Manoel Alves, 46, Contagem, MG, Brasil|32041-380": {
+    "lat": -19.9090716,
+    "lng": -44.0824035
+  },
+  "Av. Antônio Olinto, 1061, Contagem, MG, Brasil|32310-410": {
+    "lat": -19.9342847,
+    "lng": -44.0529519
+  },
+  "R. Damas Ribeiro, 361, Contagem, MG, Brasil|32010-000": {
+    "lat": -19.9346232,
+    "lng": -44.0385465
+  },
+  "R. Mario Vital, 168, Contagem, MG, Brasil|32315-060": {
+    "lat": -19.944157,
+    "lng": -44.0414651
+  },
+  "Av. Cel. Benjamim Guimarães, 838, Contagem, MG, Brasil|32230-000": {
+    "lat": -19.9750041,
+    "lng": -44.0347884
+  },
+  "R. Rio Comprido, 1387, Contagem, MG, Brasil|32241-000": {
+    "lat": -19.9468968,
+    "lng": -44.0522017
+  },
+  "R. 1º de Maio, 1724, Contagem, MG, Brasil|32183-000": {
+    "lat": -19.8403767,
+    "lng": -44.0300618
+  },
+  "Praça Santa Maria, 75, Contagem, MG, Brasil|32223-140": {
+    "lat": -19.972642,
+    "lng": -44.0476379
+  },
+  "R. Diamante, 732, Contagem, MG, Brasil|32113-000": {
+    "lat": -19.8822651,
+    "lng": -44.0287623
+  },
+  "Av. Severino Ballesteros, 850, Contagem, MG, Brasil|32110-005": {
+    "lat": -19.8805258,
+    "lng": -44.0382207
+  },
+  "Av. Cardeal Eugênio Pacelli, 1280, Contagem, MG, Brasil|32210-001": {
+    "lat": -19.9537511,
+    "lng": -44.02185009999999
+  },
+  "Av. João de Deus Costa, 366, Contagem, MG, Brasil|32040-000": {
+    "lat": -19.9170222,
+    "lng": -44.0775707
+  },
+  "R. Cerro Azul, Contagem, MG, Brasil|32186-060": {
+    "lat": -19.8343165,
+    "lng": -44.0177404
+  },
+  "Av. Edmeia Matos Lazzarotti, 3238, Betim, MG, Brasil|32604-115": {
+    "lat": -19.9694212,
+    "lng": -44.21221389999999
+  },
+  "Av. Tapajós, 1180, Betim, MG, Brasil|32670-000": {
+    "lat": -19.9373514,
+    "lng": -44.1231849
+  },
+  "Av. Bandeirantes, 275, Betim, MG, Brasil|32600-000": {
+    "lat": -19.9636596,
+    "lng": -44.1901557
+  },
+  "Av. Antônio Olinto, 1060, Curvelo, MG, Brasil|35790-000": {
+    "lat": -18.7664187,
+    "lng": -44.4304233
+  },
+  "Pedra Grande, Diamantina, MG, Brasil|39100-000": {
+    "lat": -18.2319664,
+    "lng": -43.6064657
+  },
+  "R. Pernambuco, 440, Divinópolis, MG, Brasil|35500-008": {
+    "lat": -20.1469847,
+    "lng": -44.89166059999999
+  },
+  "R. Freitas de Oliveira, 285, Ibirité, MG, Brasil|32400-000": {
+    "lat": -20.0281455,
+    "lng": -44.0574708
+  },
+  "Av. Mauro Ribeiro, 1010, Itabira, MG, Brasil|35900-000": {
+    "lat": -19.6351988,
+    "lng": -43.2320374
+  },
+  "Av. Dr. Pedro Guerra, 216, Itabira, MG, Brasil|35900-000": {
+    "lat": -19.6519443,
+    "lng": -43.215588
+  },
+  "Av. Gentil Bicalho, 540, João Monlevade, MG, Brasil|35930-000": {
+    "lat": -19.8087481,
+    "lng": -43.1864478
+  },
+  "Av. Armando Fajardo, 1801, João Monlevade, MG, Brasil|35930-000": {
+    "lat": -19.826896,
+    "lng": -43.1629623
+  },
+  "Av. Getúlio Vargas, 2440, Lagoa Santa, MG, Brasil|33400-000": {
+    "lat": -19.6437309,
+    "lng": -43.9017422
+  },
+  "R. Pinto Alves, 4080, Lagoa Santa, MG, Brasil|33400-000": {
+    "lat": -19.593152,
+    "lng": -43.908618
+  },
+  "R. Oito de Dezembro, 18, Matozinhos, MG, Brasil|35720-000": {
+    "lat": -19.5582512,
+    "lng": -44.0823376
+  },
+  "R. Ricardo Marinho, 650, Pará de Minas, MG, Brasil|35660-000": {
+    "lat": -19.8497475,
+    "lng": -44.6100249
+  },
+  "Av. Cel. Juventino Dias, 95, Pedro Leopoldo, MG, Brasil|33250-000": {
+    "lat": -19.6268893,
+    "lng": -44.0361021
+  },
+  "R. Ari Teixeira da Costa, 180, Ribeirão das Neves, MG, Brasil|33805-000": {
+    "lat": -19.7683763,
+    "lng": -44.086347
+  },
+  "Av. Denise Cristina da Rocha, 1001, Ribeirão das Neves, MG, Brasil|33900-000": {
+    "lat": -19.7994613,
+    "lng": -44.018438
+  },
+  "Av. Osvaldo Alves Araújo, 599, Ribeirão das Neves, MG, Brasil|33800-000": {
+    "lat": -19.7677861,
+    "lng": -44.1354264
+  },
+  "Av. Bernardo Guimarães, 280, Santa Luzia, MG, Brasil|33000-000": {
+    "lat": -19.7960024,
+    "lng": -43.9218781
+  },
+  "Av. Brasília, 832, Santa Luzia, MG, Brasil|33100-000": {
+    "lat": -19.7936603,
+    "lng": -43.9364636
+  },
+  "R. Prof. Abeylard, 279, Sete Lagoas, MG, Brasil|35700-000": {
+    "lat": -19.4541094,
+    "lng": -44.2468127
+  },
+  "Rua Cel. Antônio Andrade, Sete Lagoas, MG, Brasil|35700-000": {
+    "lat": -19.4695251,
+    "lng": -44.2435625
+  },
+  "R. Araticum, 200, Vespasiano, MG, Brasil|33200-000": {
+    "lat": -19.7587385,
+    "lng": -43.9373271
+  },
+  "R. Um, 838, Vespasiano, MG, Brasil|33200-000": {
+    "lat": -19.7738533,
+    "lng": -43.9584232
+  },
+  "R. João Meirelles, 1298, Florianópolis, SC, Brasil|88085-200": {
+    "lat": -27.6053108,
+    "lng": -48.5941398
+  },
+  "SC-405, 4397, Florianópolis, SC, Brasil|88063-000": {
+    "lat": -27.7025927,
+    "lng": -48.5088517
+  },
+  "R. Joaquim Carneiro, 120, Florianópolis, SC, Brasil|88085-120": {
+    "lat": -27.5976006,
+    "lng": -48.5933226
+  },
+  "R. Francisco Tolentino, 800, Florianópolis, SC, Brasil|88010-200": {
+    "lat": -27.5947519,
+    "lng": -48.5573804
+  },
+  "Av. Hercílio Luz, 870, Florianópolis, SC, Brasil|88020-000": {
+    "lat": -27.5967312,
+    "lng": -48.5457613
+  },
+  "R. Cel. Pedro Demoro, 1694, Florianópolis, SC, Brasil|88075-300": {
+    "lat": -27.5844746,
+    "lng": -48.5805449
+  },
+  "R. Eduardo Gonçalves d'Ávila, 130, Florianópolis, SC, Brasil|88034-000": {
+    "lat": -27.5878278,
+    "lng": -48.5022867
+  },
+  "Av. Marinheiro Max Schramm, Florianópolis, SC, Brasil|88095-000": {
+    "lat": -27.574687,
+    "lng": -48.5989371
+  },
+  "R. Lauro Linhares, 589, Florianópolis, SC, Brasil|88036-000": {
+    "lat": -27.5842809,
+    "lng": -48.52454059999999
+  },
+  "R. Santa Catarina, 1041, São José, SC, Brasil|88110-000": {
+    "lat": -27.5756446,
+    "lng": -48.6236571
+  },
+  "R. Eugênio Raulino Koerich, 319, São José, SC, Brasil|88101-000": {
+    "lat": -27.5989267,
+    "lng": -48.61253989999999
+  },
+  "Av. Salvador di Bernardi, 855, São José, SC, Brasil|88101-000": {
+    "lat": -27.5949315,
+    "lng": -48.6110284
+  },
+  "R. Benjamin Gerlach, São José, SC, Brasil|88100-000": {
+    "lat": -27.6197986,
+    "lng": -48.6405343
+  },
+  "R. Antônio Jovita Duarte, 5915, São José, SC, Brasil|88107-100": {
+    "lat": -27.5803881,
+    "lng": -48.6761464
+  },
+  "Av. Osvaldo José do Amaral, 2340, São José, SC, Brasil|88111-000": {
+    "lat": -27.5677481,
+    "lng": -48.63158749999999
+  },
+  "R. Gerôncio Thives, 870, São José, SC, Brasil|88108-100": {
+    "lat": -27.5844033,
+    "lng": -48.61277519999999
+  },
+  "R. João Grumiche, 1170, São José, SC, Brasil|88108-000": {
+    "lat": -27.5904839,
+    "lng": -48.6214328
+  },
+  "SC-281, 2665, São José, SC, Brasil|88122-000": {
+    "lat": -27.6048915,
+    "lng": -48.6671974
+  },
+  "Av. Bom Jesus de Nazaré, 935, Palhoça, SC, Brasil|88135-000": {
+    "lat": -27.6725305,
+    "lng": -48.6756784
+  },
+  "Av. Paulo Roberto Vidal, 55, Palhoça, SC, Brasil|88132-000": {
+    "lat": -27.6492742,
+    "lng": -48.6894759
+  },
+  "Av. Gentil Reinaldo Cordioli, 157, Palhoça, SC, Brasil|88133-000": {
+    "lat": -27.6278759,
+    "lng": -48.6591855
+  },
+  "Av. Aleixo Alves de Souza, 2, Palhoça, SC, Brasil|88130-000": {
+    "lat": -27.674052,
+    "lng": -48.6638174
+  },
+  "Av. Rio Grande, 1600, Palhoça, SC, Brasil|88130-000": {
+    "lat": -27.6639652,
+    "lng": -48.65839099999999
+  },
+  "Av. Atílio Pedro Pagani, 1300, Palhoça, SC, Brasil|88132-000": {
+    "lat": -27.6390483,
+    "lng": -48.6827811
+  },
+  "Av. Atílio Pedro Pagani, 1413, Palhoça, SC, Brasil|88132-000": {
+    "lat": -27.6406652,
+    "lng": -48.6835537
+  },
+  "Av. Pedra Branca, 744, Palhoça, SC, Brasil|88137-000": {
+    "lat": -27.6238516,
+    "lng": -48.6815605
+  },
+  "Av. Elza Lucchi, 417, Palhoça, SC, Brasil|88130-600": {
+    "lat": -27.6333731,
+    "lng": -48.6559306
+  },
+  "R. Marino Jorge dos Santos, 369, Palhoça, SC, Brasil|88136-000": {
+    "lat": -27.6431573,
+    "lng": -48.7120253
+  },
+  "3ª Avenida, 1055, Balneário Camboriú, SC, Brasil|88330-000": {
+    "lat": -26.9951955,
+    "lng": -48.6348247
+  },
+  "R. Cel. Teixeira de Oliveira, 243, Biguaçu, SC, Brasil|88160-000": {
+    "lat": -27.4981967,
+    "lng": -48.6547615
+  },
+  "R. Júlio Teodoro Martins, 3032, Biguaçu, SC, Brasil|88160-000": {
+    "lat": -27.5172045,
+    "lng": -48.6516873
+  },
+  "Rua Marmeleiro, 555, Camboriú, SC, Brasil|88340-000": {
+    "lat": -27.0041816,
+    "lng": -48.6556894
+  },
+  "Av. Getúlio Dorneles Vargas, 951, Chapecó, SC, Brasil|89800-000": {
+    "lat": -27.096498,
+    "lng": -52.6168312
+  },
+  "R. Cunha Porã, 378, Chapecó, SC, Brasil|89800-000": {
+    "lat": -27.0990302,
+    "lng": -52.67391869999999
+  },
+  "R. Anita Garibaldi, 375, Criciúma, SC, Brasil|88800-000": {
+    "lat": -28.6777377,
+    "lng": -49.3755704
+  },
+  "R. Ipiranga, 93, Içara, SC, Brasil|88820-000": {
+    "lat": -28.712879,
+    "lng": -49.2975919
+  },
+  "R. Heitor Liberato, 1928, Itajaí, SC, Brasil|88300-000": {
+    "lat": -26.9080159,
+    "lng": -48.67720569999999
+  },
+  "Terceira Av., 503, Itapema, SC, Brasil|88220-000": {
+    "lat": -27.1316456,
+    "lng": -48.6061089
+  },
+  "R. Ministro Calógeras, 474, Joinville, SC, Brasil|89201-500": {
+    "lat": -26.3074194,
+    "lng": -48.8445785
+  },
+  "R. Albano Schmidt, 1200, Joinville, SC, Brasil|89200-000": {
+    "lat": -26.3042986,
+    "lng": -48.823946
+  },
+  "Av. Santos Dumont, 202, Navegantes, SC, Brasil|88375-000": {
+    "lat": -26.8982904,
+    "lng": -48.6553565
+  },
+  "R. Intendente Broering, 3117, Santo Amaro da Imperatriz, SC, Brasil|88140-000": {
+    "lat": -27.6825954,
+    "lng": -48.7523513
+  },
+  "Av. Paineiras, 430, Tijucas, SC, Brasil|88200-000": {
+    "lat": -27.2298952,
+    "lng": -48.6464008
+  },
+  "R. Simeão Esmeraldino de Menezes, 420, Tubarão, SC, Brasil|88700-000": {
+    "lat": -28.4807511,
+    "lng": -49.0210437
+  },
+  "R. Antonina, 810, Francisco Beltrão, PR, Brasil|85601-580": {
+    "lat": -26.078202,
+    "lng": -53.0581302
+  },
+  "Av. Tupi, 1000, Pato Branco, PR, Brasil|85501-000": {
+    "lat": -26.214145,
+    "lng": -52.674431
+  },
+  "R. Caramuru, 596, Pato Branco, PR, Brasil|85501-000": {
+    "lat": -26.2258621,
+    "lng": -52.6741573
+  },
+  "Av. Ewerson de Abreu Sodré, 100, Guarapari, ES, Brasil|29215-010": {
+    "lat": -20.6591929,
+    "lng": -40.4974895
+  },
+  "Av. Desembargador Mário da Silva Nunes, 611, Serra, ES, Brasil|29164-044": {
+    "lat": -20.2145061,
+    "lng": -40.2634739
+  },
+  "Av. dos Bandeirantes, 1550, Belo Horizonte, MG, Brasil|30315-032": {
+    "lat": -19.9505609,
+    "lng": -43.92209889999999
+  },
+  "Av. Gov. Valadares, 312, Igarapé, MG, Brasil|32900-000": {
+    "lat": -20.0738697,
+    "lng": -44.3043874
+  },
+  "Rod. Camilo Teixeira da Costa, 6355, Santa Luzia, MG, Brasil|33000-000": {
+    "lat": -19.8166839,
+    "lng": -43.8862764
+  },
+  "Est. Dom João Becker, 1202, Florianópolis, SC, Brasil|88058-600": {
+    "lat": -27.4408126,
+    "lng": -48.3853513
+  },
+  "R. Graciliano M. Gomes, 423, Florianópolis, SC, Brasil|88058-000": {
+    "lat": -27.4430909,
+    "lng": -48.4090036
+  },
+  "Av. Pref. Nelson Martins, Florianópolis, SC, Brasil|88058-000": {
+    "lat": -27.478393,
+    "lng": -48.418493
+  },
+  "Rod. Jornalista Maurício Sirotski Sobrinho, 5451, Florianópolis, SC, Brasil|88053-700": {
+    "lat": -27.445765,
+    "lng": -48.487952
+  },
+  "R. da Independência, 1470, São José, SC, Brasil|88113-000": {
+    "lat": -27.5584934,
+    "lng": -48.6292165
+  },
+  "R. Ver. Arthur M. Mariano, 1721, São José, SC, Brasil|88106-000": {
+    "lat": -27.5955467,
+    "lng": -48.6452501
+  },
+  "R. Pref. Reinoldo Alves, 41, Palhoça, SC, Brasil|88130-000": {
+    "lat": -27.6395955,
+    "lng": -48.66775819999999
+  },
+  "Av. Pref. Nelson Martins, 780, Palhoça, SC, Brasil|88130-000": {
+    "lat": -27.6534326,
+    "lng": -48.673474
+  },
+  "R. José Gaidzinki, 125, Criciúma, SC, Brasil|88800-000": {
+    "lat": -28.6774357,
+    "lng": -49.3600328
+  },
+  "Av. Hironildo C. dos Santos, 293, Porto Belo, SC, Brasil|88210-000": {
+    "lat": -27.155356,
+    "lng": -48.5908806
+  },
+  "20335 Biscayne Blvd, Suite L-201, Aventura, FL, USA|33180": {
+    "lat": 25.9641676,
+    "lng": -80.1438178
+  },
+  "Pasco 1185, c1229 cdad. Autónoma de Buenos Aires, Argentina|C1229AAY": {
+    "lat": -34.6227917,
+    "lng": -58.39652969999999
+  },
+  "Av. Waldyr Soeiro Emrich, 3350, Contagem, MG, Brasil|32015-000": {
+    "lat": -19.9899165,
+    "lng": -44.0128732
+  }
+}

@@ -3,10 +3,6 @@ import { EbookItem } from '../types/config';
 import { FiX as X, FiBookOpen as BookOpen, FiDownload as Download, FiCheck as Check, FiFileText as FileText, FiExternalLink as ExternalLink } from 'react-icons/fi';
 import { HiSparkles as Sparkles } from 'react-icons/hi2';
 import confetti from 'canvas-confetti';
-import { pdf } from '@react-pdf/renderer';
-import { EbookPDFDocument } from './EbookPDFDocument';
-import { RecipesPDFDocument } from './RecipesPDFDocument';
-import { SweetRecipesPDFDocument } from './SweetRecipesPDFDocument';
 
 interface LeadMagnetModalProps {
   isOpen: boolean;
@@ -63,12 +59,19 @@ export const LeadMagnetModal: React.FC<LeadMagnetModalProps> = ({
 
     // Generate native vector PDF using @react-pdf/renderer (NO html2pdf)
     try {
-      let docElement = <RecipesPDFDocument userName={userName || 'Atleta VIP'} />;
+      const { pdf } = await import('@react-pdf/renderer');
+      const documentProps = { userName: userName || 'Atleta VIP' };
+      let docElement: React.ReactElement;
 
       if (ebook.id === 'ebook-sweet-recipes' || ebook.title.toLowerCase().includes('doce')) {
-        docElement = <SweetRecipesPDFDocument userName={userName || 'Atleta VIP'} />;
+        const { SweetRecipesPDFDocument } = await import('./SweetRecipesPDFDocument');
+        docElement = <SweetRecipesPDFDocument {...documentProps} />;
       } else if (ebook.id === 'ebook-3' || ebook.title.toLowerCase().includes('hipertrofia')) {
-        docElement = <EbookPDFDocument userName={userName || 'Atleta VIP'} />;
+        const { EbookPDFDocument } = await import('./EbookPDFDocument');
+        docElement = <EbookPDFDocument {...documentProps} />;
+      } else {
+        const { RecipesPDFDocument } = await import('./RecipesPDFDocument');
+        docElement = <RecipesPDFDocument {...documentProps} />;
       }
 
       const blob = await pdf(docElement).toBlob();

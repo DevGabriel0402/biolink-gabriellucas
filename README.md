@@ -1,88 +1,182 @@
-# ⚡ BioLink Premium - Consultor Gabriel Lucas
+# ⚡ BioLink Fitness — Gabriel Lucas
 
-> **Aplicação Web Client-Side de Alta Performance para Personal Trainer & Consultoria Fitness Online.**  
-> 🔗 **Aplicação em Produção:** [https://biofit-consultoria.vercel.app](https://biofit-consultoria.vercel.app)
+BioLink responsiva para avaliação fitness, ferramentas de treino, localização de academias Pratique Fitness, materiais gratuitos e contato com a consultoria online.
 
----
-
-## 📱 Visualização da Interface (BioLink Gabriel Lucas)
+🔗 **Produção:** [biofit-consultoria.vercel.app](https://biofit-consultoria.vercel.app)  
+📸 **Instagram:** [@ogabriielvieira](https://instagram.com/ogabriielvieira)
 
 <p align="center">
-  <img src="src/image/projeto-print.PNG" alt="Interface Real BioLink Gabriel Lucas" style="border-radius: 16px; width: 380px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="public/og-preview.jpg" alt="Gabriel Lucas — Avaliação Fitness Grátis" width="760" />
 </p>
 
----
+## ✨ Destaques
 
-## 🚀 Principais Funcionalidades
+- Layout adaptado para celulares, tablets, notebooks e monitores grandes.
+- Visual em duas áreas no desktop e navegação vertical no celular.
+- Componentes carregados sob demanda para reduzir o carregamento inicial.
+- Prévia personalizada para compartilhamento no WhatsApp e redes sociais.
+- Navegação acessível por teclado e interface otimizada para toque.
+- Funcionamento client-side, sem necessidade de banco de dados para as ferramentas fitness.
 
-### 📊 1. Calculadora de Macros, Calorias & IMC Interativa
-- **Cálculo da Taxa Metabólica Basal (TMB)**: Quantidade mínima de calorias em repouso.
-- **Gasto Calórico Total Diário (TDEE)**: Ajuste com base na frequência de treinos.
-- **Ajuste Estratégico**: Déficit Calórico para secar gordura ou Superávit para hipertrofia.
-- **Ilustrações Corporais Dinâmicas**: Troca automática de imagens corporais para **Homens** e **Mulheres** conforme a faixa de IMC.
-- **Mensagem Persuasiva por IMC**: Orientação personalizada e gatilho de ação direto para o WhatsApp.
+## 📊 Central Fitness
 
-### 📚 2. Geração Nátiva de E-books em PDF (`@react-pdf/renderer`)
-- **E-book 20 Doces Proteicos & Fit**: 20 sobremesas anabólicas com tabela completa de macros.
-- **E-book 20 Receitas Salgadas & Anabólicas**: Opções práticas para a dieta diária.
-- **E-book Guia da Hipertrofia Acelerada**: Dicas definitivas de treino e nutrição.
-- **Geração Vetorial Instantânea**: Download direto no navegador em PDF HD sem perda de nitidez ou quebras de página indesejadas.
+A Central Fitness reúne uma avaliação completa e ferramentas rápidas:
 
-### 💎 3. Comparador de Planos de Consultoria VIP
-- Exibição hierárquica completa dos planos: **Mensal**, **Trimestral** e **Semestral**.
-- Envio de ficha de inscrição formatada diretamente para o WhatsApp do Consultor Gabriel.
+### Avaliação em quatro etapas
 
-### ⚡ 4. Painel de Edição ao Vivo (`/editar`)
-- Permite editar foto de perfil, links, preços dos planos, estatísticas e botões em tempo real.
-- Exportação e importação instantânea de configurações em formato JSON.
+- Dados básicos e sexo utilizado no cálculo metabólico.
+- Peso e altura.
+- Nível de atividade e frequência semanal de treino.
+- Objetivo e peso-meta.
 
----
+### Resultado da avaliação
 
-## 🛠️ Tecnologias Utilizadas
+- IMC e classificação corporal.
+- Taxa Metabólica Basal (TMB).
+- Gasto Energético Diário Total (TDEE).
+- Meta calórica estimada.
+- Proteínas, carboidratos, gorduras e fibras.
+- Referência diária de água e passos.
+- Faixa de peso baseada no IMC.
+- Distribuição estimada das calorias por refeição.
+- Orientações gerais conforme o objetivo.
+- Seleção automática de ilustração corporal para homem ou mulher em seis faixas de IMC.
 
-- **Core**: React 18, TypeScript, Vite
-- **Estilização**: Vanilla CSS com variáveis de tema Dark Onyx & Efeitos Glassmorphism
-- **PDF Engine**: `@react-pdf/renderer` (Gerador nativo vetorial)
-- **Ícones**: `react-icons` (FontAwesome 6, Heroicons 2, Feather Icons)
-- **Efeitos**: `canvas-confetti`
-- **Deploy & SPA Rewrite**: Vercel (`vercel.json`)
+> Os resultados são estimativas educativas para adultos e não substituem avaliação médica, nutricional ou acompanhamento individualizado.
 
----
+### Ferramentas rápidas
 
-## 📬 Contatos Oficiais & Suporte
+- 💧 Estimativa de água diária.
+- 🏃 Cálculo de ritmo de corrida e velocidade média.
+- 🏋️ Estimativa de carga máxima (1RM).
+- 🔄 Troca de alimentos por equivalência aproximada de calorias.
 
-- **Consultor Responsável:** Gabriel Lucas
-- **🌐 Aplicação Web:** [https://biofit-consultoria.vercel.app](https://biofit-consultoria.vercel.app)
-- **📲 WhatsApp Direct:** [(31) 99166-0594](https://wa.me/5531991660594)
-- **📸 Instagram:** [@ogabriielvieira](https://instagram.com/ogabriielvieira)
-- **✉️ E-mail da BioLink:** [gabriellucas2301@gmail.com](mailto:gabriellucas2301@gmail.com)
+## 📱 Cartão para Stories
 
----
+O resultado pode ser transformado em um cartão no formato **1080 × 1920 px**:
 
-## 💻 Como Rodar o Projeto Localmente
+- Exibe IMC, objetivo, calorias, macros e hidratação.
+- Inclui automaticamente a ilustração correspondente ao sexo e à faixa de IMC.
+- Permite escolher uma foto pessoal diretamente do celular.
+- A foto é processada somente na memória temporária do navegador.
+- Nenhuma foto é enviada ou armazenada em servidor.
+- Permite compartilhar pelo menu nativo do aparelho ou baixar em PNG.
+- Inclui a identificação `@ogabriielvieira`.
+
+## 📍 Academias Pratique Fitness
+
+- Base com **154 unidades** e coordenadas revisadas.
+- Pesquisa por nome, endereço e região.
+- Filtros de modalidades disponíveis.
+- Visualização das unidades no mapa.
+- Localização opcional para encontrar as três academias mais próximas.
+- Abertura de rota diretamente no Google Maps.
+
+A localização é solicitada somente quando o usuário escolhe procurar academias próximas.
+
+## 📚 E-books e materiais
+
+- E-book de doces proteicos e fit.
+- E-book de receitas salgadas.
+- Conteúdos de treino e hipertrofia.
+- PDFs personalizados com o nome informado pelo usuário.
+- Geração vetorial com `@react-pdf/renderer`.
+
+O mecanismo de PDF é baixado apenas quando o usuário solicita um material, evitando aumentar o carregamento inicial da página.
+
+## 💬 Consultoria e contato
+
+- Comparação de planos de consultoria.
+- Mensagens personalizadas enviadas ao WhatsApp.
+- Links oficiais para Instagram, WhatsApp e e-mail.
+- Área de edição local disponível em `/editar`.
+- Importação e exportação das configurações em JSON.
+
+As alterações realizadas no editor ficam armazenadas no navegador utilizado.
+
+## 🛠️ Tecnologias
+
+- React 18
+- TypeScript
+- Vite
+- CSS responsivo
+- React Icons e Lucide React
+- Canvas API para os cartões de Stories
+- Geolocation API para unidades próximas
+- `@react-pdf/renderer` para PDFs
+- `canvas-confetti` para efeitos visuais
+- Vercel para hospedagem e rotas SPA
+
+## 📁 Estrutura principal
+
+```text
+src/
+├── components/       Componentes da BioLink, modais, mapa e Central Fitness
+├── data/             Configuração, receitas e unidades Pratique Fitness
+├── image/            Perfil e ilustrações corporais de IMC
+├── types/            Tipos TypeScript
+└── utils/            Cálculos fitness, PDFs e cartão de Stories
+
+public/
+├── favicon.svg
+└── og-preview.jpg    Imagem de compartilhamento social
+
+scripts/
+├── auditGoogleMaps.mjs
+└── geocodeAddresses.mjs
+```
+
+## 💻 Executando localmente
+
+Requisitos:
+
+- Node.js 18 ou superior.
+- npm.
 
 ```bash
-# 1. Clonar o repositório
 git clone https://github.com/DevGabriel0402/biolink-gabriellucas.git
-
-# 2. Entrar na pasta do projeto
 cd biolink-gabriellucas
-
-# 3. Instalar as dependências
 npm install
-
-# 4. Iniciar o servidor de desenvolvimento
 npm run dev
 ```
 
----
+Por padrão, o servidor de desenvolvimento utiliza `http://localhost:3005`.
 
-## 📦 Build para Produção
+## 📦 Compilação de produção
 
 ```bash
 npm run build
+npm run preview
 ```
+
+Os arquivos finais serão gerados em `dist/`.
+
+## 🚀 Publicação na Vercel
+
+O projeto inclui o arquivo `vercel.json`, que direciona as rotas da aplicação para `index.html`.
+
+Passos básicos:
+
+1. Conectar o repositório à Vercel.
+2. Selecionar Vite como framework.
+3. Utilizar `npm run build` como comando de build.
+4. Utilizar `dist` como diretório de saída.
+
+## 🔐 Privacidade
+
+- A avaliação não exige cadastro.
+- Os dados informados nas calculadoras não são enviados para servidor.
+- A foto opcional do Story não é armazenada.
+- A localização é usada somente para calcular as unidades próximas.
+- Personalizações feitas em `/editar` utilizam o armazenamento local do navegador.
+
+## 📬 Contatos
+
+- **Responsável:** Gabriel Lucas
+- **WhatsApp:** [(31) 99166-0594](https://wa.me/5531991660594)
+- **Instagram:** [@ogabriielvieira](https://instagram.com/ogabriielvieira)
+- **E-mail:** [gabriellucas2301@gmail.com](mailto:gabriellucas2301@gmail.com)
 
 ---
 
-*Desenvolvido com excelência para a Consultoria Fitness do Consultor Gabriel Lucas.*
+Desenvolvido para a consultoria fitness de Gabriel Lucas.

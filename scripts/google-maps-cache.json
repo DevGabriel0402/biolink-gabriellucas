@@ -1,0 +1,3495 @@
+{
+  "Abrahão Caram|Av. Antônio Abrahão Caram, Belo Horizonte, MG, Brasil|31275-000": {
+    "fullAddress": "Academia Pratique Fitness - Abrahão Caram - Av. Antônio Abrahão Caram, 118 - São José, Belo Horizonte - MG, 31275-000",
+    "lat": -19.8600054,
+    "lng": -43.96198589999999,
+    "title": "Academia Pratique Fitness - Abrahão Caram",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "antonio",
+        "abrahao",
+        "caram",
+        "belo",
+        "horizonte"
+      ],
+      "matchingNameWords": [
+        "abrahao",
+        "caram"
+      ]
+    },
+    "query": "Pratique Fitness Abrahão Caram, Av. Antônio Abrahão Caram, Belo Horizonte, MG, Brasil, 31275-000"
+  },
+  "Alípio de Melo|Av. Abílio Machado, 750a, Belo Horizonte, MG, Brasil|30820-000": {
+    "fullAddress": "Academia Pratique Fitness - Alípio de Melo - Av. Abílio Machado, 750a - Alípio de Melo, Belo Horizonte - MG, 30830-482",
+    "lat": -19.9103808,
+    "lng": -43.9981809,
+    "title": "Academia Pratique Fitness - Alípio de Melo",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "abilio",
+        "machado"
+      ],
+      "matchingNameWords": [
+        "alipio",
+        "melo"
+      ]
+    },
+    "query": "Pratique Fitness Alípio de Melo, Av. Abílio Machado, 750a, Belo Horizonte, MG, Brasil, 30820-000"
+  },
+  "Cachoeirinha|Av. Bernardo de Vasconcelos, 1193, Belo Horizonte, MG, Brasil|31150-000": {
+    "fullAddress": "Academia Pratique Fitness - Cachoeirinha - Av. Bernardo de Vasconcelos, 1193 - Cachoeirinha, Belo Horizonte - MG, 31150-000",
+    "lat": -19.883431,
+    "lng": -43.94089,
+    "title": "Academia Pratique Fitness - Cachoeirinha",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "bernardo",
+        "vasconcelos"
+      ],
+      "matchingNameWords": [
+        "cachoeirinha"
+      ]
+    },
+    "query": "Pratique Fitness Cachoeirinha, Av. Bernardo de Vasconcelos, 1193, Belo Horizonte, MG, Brasil, 31150-000"
+  },
+  "Camargos|R. Gentil Portugal do Brasil, 355, Belo Horizonte, MG, Brasil|30520-540": {
+    "fullAddress": "Academia Pratique Fitness - Camargos - R. Gentil Portugal do Brasil, 355 - Camargos, Belo Horizonte - MG, 30520-540",
+    "lat": -19.937442,
+    "lng": -44.0230308,
+    "title": "Academia Pratique Fitness - Camargos",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "gentil",
+        "portugal"
+      ],
+      "matchingNameWords": [
+        "camargos"
+      ]
+    },
+    "query": "Pratique Fitness Camargos, R. Gentil Portugal do Brasil, 355, Belo Horizonte, MG, Brasil, 30520-540"
+  },
+  "Cardoso|R. Barão de Monte Alto, 911, Belo Horizonte, MG, Brasil|30626-440": {
+    "fullAddress": "Academia Pratique Fitness - Cardoso - R. Barão de Monte Alto, 911 - Cardoso, Belo Horizonte - MG, 30626-480",
+    "lat": -20.0058364,
+    "lng": -44.0051516,
+    "title": "Academia Pratique Fitness - Cardoso",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "barao",
+        "monte",
+        "alto"
+      ],
+      "matchingNameWords": [
+        "cardoso"
+      ]
+    },
+    "query": "Pratique Fitness Cardoso, R. Barão de Monte Alto, 911, Belo Horizonte, MG, Brasil, 30626-440"
+  },
+  "Castelo|Av. dos Engenheiros, 167, Belo Horizonte, MG, Brasil|30840-300": {
+    "fullAddress": "Academia Pratique Fitness - Castelo - Av. dos Engenheiros, 167 - Castelo, Belo Horizonte - MG, 30840-492",
+    "lat": -19.8921995,
+    "lng": -43.9958541,
+    "title": "Academia Pratique Fitness - Castelo",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "engenheiros"
+      ],
+      "matchingNameWords": [
+        "castelo"
+      ]
+    },
+    "query": "Pratique Fitness Castelo, Av. dos Engenheiros, 167, Belo Horizonte, MG, Brasil, 30840-300"
+  },
+  "Céu Azul|R. Antônio José dos Santos, 409, Belo Horizonte, MG, Brasil|31580-000": {
+    "fullAddress": "Academia Pratique Fitness - Céu Azul - R. Antônio José dos Santos, 409 - Céu Azul, Belo Horizonte - MG, 31580-000",
+    "lat": -19.8217521,
+    "lng": -43.9970147,
+    "title": "Academia Pratique Fitness - Céu Azul",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "antonio",
+        "jose",
+        "santos"
+      ],
+      "matchingNameWords": [
+        "azul"
+      ]
+    },
+    "query": "Pratique Fitness Céu Azul, R. Antônio José dos Santos, 409, Belo Horizonte, MG, Brasil, 31580-000"
+  },
+  "Cidade Nova|R. Dr. Júlio Otaviano Ferreira, 151, Belo Horizonte, MG, Brasil|31170-200": {
+    "fullAddress": "Academia Pratique Fitness - Cidade Nova - Rua Dr. Júlio Otaviano Ferreira, 151 - Cidade Nova, Belo Horizonte - MG, 31170-200",
+    "lat": -19.8859322,
+    "lng": -43.9279093,
+    "title": "Academia Pratique Fitness - Cidade Nova",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "julio",
+        "otaviano",
+        "ferreira"
+      ],
+      "matchingNameWords": [
+        "cidade",
+        "nova"
+      ]
+    },
+    "query": "Pratique Fitness Cidade Nova, R. Dr. Júlio Otaviano Ferreira, 151, Belo Horizonte, MG, Brasil, 31170-200"
+  },
+  "Fernão Dias|R. Aiuruoca, 54, Belo Horizonte, MG, Brasil|31810-090": {
+    "fullAddress": "Academia Pratique Fitness - Fernão Dias - R. Aiuruoca, 54 - Fernão Dias, Belo Horizonte - MG, 31910-130",
+    "lat": -19.872077,
+    "lng": -43.9216394,
+    "title": "Academia Pratique Fitness - Fernão Dias",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "aiuruoca"
+      ],
+      "matchingNameWords": [
+        "fernao",
+        "dias"
+      ]
+    },
+    "query": "Pratique Fitness Fernão Dias, R. Aiuruoca, 54, Belo Horizonte, MG, Brasil, 31810-090"
+  },
+  "Fernão Dias 2|R. Maria Ferreira da Silva, 440, Belo Horizonte, MG, Brasil|31810-000": {
+    "fullAddress": "Academia Pratique Fitness - Fernão Dias II - R. Maria Ferreira da Silva, 440 - Fernão Dias, Belo Horizonte - MG, 31920-350",
+    "lat": -19.8751137,
+    "lng": -43.9146864,
+    "title": "Academia Pratique Fitness - Fernão Dias II",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "maria",
+        "ferreira",
+        "silva"
+      ],
+      "matchingNameWords": [
+        "fernao",
+        "dias"
+      ]
+    },
+    "query": "Pratique Fitness Fernão Dias 2, R. Maria Ferreira da Silva, 440, Belo Horizonte, MG, Brasil, 31810-000"
+  },
+  "Flávio Marques Lisboa|Av. Menelick de Carvalho, 245, Belo Horizonte, MG, Brasil|30620-430": {
+    "fullAddress": "Academia Pratique Fitness - Flávio Marques - Av. Menelick de Carvalho, 245 - Flávio Marques Lisboa, Belo Horizonte - MG, 30624-120",
+    "lat": -19.9947235,
+    "lng": -44.0037966,
+    "title": "Academia Pratique Fitness - Flávio Marques",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "menelick",
+        "carvalho"
+      ],
+      "matchingNameWords": [
+        "flavio",
+        "marques",
+        "lisboa"
+      ]
+    },
+    "query": "Pratique Fitness Flávio Marques Lisboa, Av. Menelick de Carvalho, 245, Belo Horizonte, MG, Brasil, 30620-430"
+  },
+  "Floresta|Av. Flávio dos Santos, 325, Belo Horizonte, MG, Brasil|30150-310": {
+    "fullAddress": "Academia Pratique Fitness - Floresta - Av. Flávio dos Santos, 325 - Floresta, Belo Horizonte - MG, 30015-150",
+    "lat": -19.9136165,
+    "lng": -43.9254569,
+    "title": "Academia Pratique Fitness - Floresta",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "flavio",
+        "santos"
+      ],
+      "matchingNameWords": [
+        "floresta"
+      ]
+    },
+    "query": "Pratique Fitness Floresta, Av. Flávio dos Santos, 325, Belo Horizonte, MG, Brasil, 30150-310"
+  },
+  "Funcionários|Av. Carandaí, 41, Belo Horizonte, MG, Brasil|30130-060": {
+    "fullAddress": "Academia Pratique Fitness - Prime, Funcionários - Av. Carandaí, 41 - Funcionários, Belo Horizonte - MG, 30130-060",
+    "lat": -19.9297071,
+    "lng": -43.9227189,
+    "title": "Academia Pratique Fitness - Prime, Funcionários",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "carandai"
+      ],
+      "matchingNameWords": [
+        "funcionarios"
+      ]
+    },
+    "query": "Pratique Fitness Funcionários, Av. Carandaí, 41, Belo Horizonte, MG, Brasil, 30130-060"
+  },
+  "Glória|Av. Brg. Eduardo Gomes, 1239, Belo Horizonte, MG, Brasil|30870-100": {
+    "fullAddress": "Academia Pratique Fitness - Glória - Av. Brg. Eduardo Gomes, 1239 - Glória, Belo Horizonte - MG, 30870-100",
+    "lat": -19.9047533,
+    "lng": -44.0061772,
+    "title": "Academia Pratique Fitness - Glória",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "eduardo",
+        "gomes"
+      ],
+      "matchingNameWords": [
+        "gloria"
+      ]
+    },
+    "query": "Pratique Fitness Glória, Av. Brg. Eduardo Gomes, 1239, Belo Horizonte, MG, Brasil, 30870-100"
+  },
+  "Goiânia|R. Pomba, 649, Belo Horizonte, MG, Brasil|31950-480": {
+    "fullAddress": "Academia Pratique Fitness - Goiânia - R. Pomba, 649 - Goiânia, Belo Horizonte - MG, 31950-490",
+    "lat": -19.8644702,
+    "lng": -43.8971648,
+    "title": "Academia Pratique Fitness - Goiânia",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "pomba"
+      ],
+      "matchingNameWords": [
+        "goiania"
+      ]
+    },
+    "query": "Pratique Fitness Goiânia, R. Pomba, 649, Belo Horizonte, MG, Brasil, 31950-480"
+  },
+  "Guarani|Av. Saramenha, 1530, Belo Horizonte, MG, Brasil|31840-220": {
+    "fullAddress": "Academia Pratique Fitness - Guarani - Av. Saramenha, 1530 - Guarani, Belo Horizonte - MG, 31840-220",
+    "lat": -19.8437747,
+    "lng": -43.9185257,
+    "title": "Academia Pratique Fitness - Guarani",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "saramenha"
+      ],
+      "matchingNameWords": [
+        "guarani"
+      ]
+    },
+    "query": "Pratique Fitness Guarani, Av. Saramenha, 1530, Belo Horizonte, MG, Brasil, 31840-220"
+  },
+  "Gutierrez|R. Oscar Trompowsky, 555, Belo Horizonte, MG, Brasil|30441-055": {
+    "fullAddress": "Pratique Fitness Gutierrez - R. Oscar Trompowsky, 555 - Gutierrez, Belo Horizonte - MG, 30441-055",
+    "lat": -19.9332751,
+    "lng": -43.9603048,
+    "title": "Pratique Fitness Gutierrez",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "oscar",
+        "trompowsky"
+      ],
+      "matchingNameWords": [
+        "gutierrez"
+      ]
+    },
+    "query": "Pratique Fitness Gutierrez, R. Oscar Trompowsky, 555, Belo Horizonte, MG, Brasil, 30441-055"
+  },
+  "Heliópolis|R. Maria Amélia Maia, 1191, Belo Horizonte, MG, Brasil|31740-060": {
+    "fullAddress": "Academia Pratique Fitness - Heliópolis - R. Maria Amélia Maia, 1191 - Heliópolis, Belo Horizonte - MG, 31741-171",
+    "lat": -19.8466412,
+    "lng": -43.9392963,
+    "title": "Academia Pratique Fitness - Heliópolis",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "maria",
+        "amelia",
+        "maia"
+      ],
+      "matchingNameWords": [
+        "heliopolis"
+      ]
+    },
+    "query": "Pratique Fitness Heliópolis, R. Maria Amélia Maia, 1191, Belo Horizonte, MG, Brasil, 31740-060"
+  },
+  "Jaraguá|R. Izabel Bueno, 205, Belo Horizonte, MG, Brasil|31270-030": {
+    "fullAddress": "Academia Pratique Fitness - Jaraguá - Rua Izabel Bueno, 205 - Jaraguá, Belo Horizonte - MG, 31270-030",
+    "lat": -19.8670129,
+    "lng": -43.9504154,
+    "title": "Academia Pratique Fitness - Jaraguá",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "izabel",
+        "bueno"
+      ],
+      "matchingNameWords": [
+        "jaragua"
+      ]
+    },
+    "query": "Pratique Fitness Jaraguá, R. Izabel Bueno, 205, Belo Horizonte, MG, Brasil, 31270-030"
+  },
+  "Jardim Atlântico|Av. Portugal, 90, Belo Horizonte, MG, Brasil|31710-400": {
+    "fullAddress": "Academia Pratique Fitness - Jardim Atlântico - Av. Portugal, 90 - Jardim Atlântico, Belo Horizonte - MG, 31560-000",
+    "lat": -19.8384605,
+    "lng": -43.9915174,
+    "title": "Academia Pratique Fitness - Jardim Atlântico",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "portugal"
+      ],
+      "matchingNameWords": [
+        "jardim",
+        "atlantico"
+      ]
+    },
+    "query": "Pratique Fitness Jardim Atlântico, Av. Portugal, 90, Belo Horizonte, MG, Brasil, 31710-400"
+  },
+  "Lagoa|R. dos Menezes, 249, Belo Horizonte, MG, Brasil|31535-320": {
+    "fullAddress": "Academia Pratique Fitness - Lagoa - R. dos Menezes, 249 - Lagoa, Belo Horizonte - MG, 31610-090",
+    "lat": -19.80337,
+    "lng": -44.00043429999999,
+    "title": "Academia Pratique Fitness - Lagoa",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "menezes"
+      ],
+      "matchingNameWords": [
+        "lagoa"
+      ]
+    },
+    "query": "Pratique Fitness Lagoa, R. dos Menezes, 249, Belo Horizonte, MG, Brasil, 31535-320"
+  },
+  "Mangabeiras|Av. dos Bandeirantes, 1550, Belo Horizonte, MG, Brasil|30210-420": {
+    "fullAddress": "Academia Pratique Fitness - Mangabeiras - Av. dos Bandeirantes, 1550 - Mangabeiras, Belo Horizonte - MG, 30210-420",
+    "lat": -19.9505609,
+    "lng": -43.92209889999999,
+    "title": "Academia Pratique Fitness - Mangabeiras",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "bandeirantes"
+      ],
+      "matchingNameWords": [
+        "mangabeiras"
+      ]
+    },
+    "query": "Pratique Fitness Mangabeiras, Av. dos Bandeirantes, 1550, Belo Horizonte, MG, Brasil, 30210-420"
+  },
+  "Nazaré|R. Candelária, 125, Belo Horizonte, MG, Brasil|31990-120": {
+    "fullAddress": "Academia Pratique Fitness - Nazaré - R. Candelária, 125 - Nazare, Belo Horizonte - MG, 31990-010",
+    "lat": -19.850976,
+    "lng": -43.8945743,
+    "title": "Academia Pratique Fitness - Nazaré",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "candelaria"
+      ],
+      "matchingNameWords": [
+        "nazare"
+      ]
+    },
+    "query": "Pratique Fitness Nazaré, R. Candelária, 125, Belo Horizonte, MG, Brasil, 31990-120"
+  },
+  "Nova Floresta|R. Mossoró, 140, Belo Horizonte, MG, Brasil|31140-110": {
+    "fullAddress": "Academia Pratique Fitness - Nova Floresta - R. Mossoró, 140 - Nova Floresta, Belo Horizonte - MG, 31140-330",
+    "lat": -19.8897345,
+    "lng": -43.9349879,
+    "title": "Academia Pratique Fitness - Nova Floresta",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "mossoro"
+      ],
+      "matchingNameWords": [
+        "nova",
+        "floresta"
+      ]
+    },
+    "query": "Pratique Fitness Nova Floresta, R. Mossoró, 140, Belo Horizonte, MG, Brasil, 31140-110"
+  },
+  "Ouro Minas|R. Santa Leopoldina, 77, Belo Horizonte, MG, Brasil|31870-220": {
+    "fullAddress": "Academia Pratique Fitness - Vila Ouro - R. Santa Leopoldina, 77 - Vila Ouro Minas, Belo Horizonte - MG, 31870-190",
+    "lat": -19.849327,
+    "lng": -43.9077129,
+    "title": "Academia Pratique Fitness - Vila Ouro",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "santa",
+        "leopoldina"
+      ],
+      "matchingNameWords": [
+        "ouro",
+        "minas"
+      ]
+    },
+    "query": "Pratique Fitness Ouro Minas, R. Santa Leopoldina, 77, Belo Horizonte, MG, Brasil, 31870-220"
+  },
+  "Palmeiras|Av. Dom João VI, 1581, Belo Horizonte, MG, Brasil|30575-815": {
+    "fullAddress": "Academia Pratique Fitness - Palmeiras - Av. Dom João VI, 1581 - Palmeiras, Belo Horizonte - MG, 30570-522",
+    "lat": -19.9698727,
+    "lng": -43.9802106,
+    "title": "Academia Pratique Fitness - Palmeiras",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "joao"
+      ],
+      "matchingNameWords": [
+        "palmeiras"
+      ]
+    },
+    "query": "Pratique Fitness Palmeiras, Av. Dom João VI, 1581, Belo Horizonte, MG, Brasil, 30575-815"
+  },
+  "Pampulha|Av. Dom Pedro I, 402, Belo Horizonte, MG, Brasil|31530-010": {
+    "fullAddress": "Academia Pratique Fitness - Av. Dom Pedro I, 402 - Itapoã, Belo Horizonte - MG, 31550-000",
+    "lat": -19.8416384,
+    "lng": -43.9668138,
+    "title": "Academia Pratique Fitness",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": false,
+      "matchingStreetWords": [
+        "pedro"
+      ],
+      "matchingNameWords": []
+    },
+    "query": "Pratique Fitness Pampulha, Av. Dom Pedro I, 402, Belo Horizonte, MG, Brasil, 31530-010"
+  },
+  "Paquetá|Av. Santa Terezinha, 231, Belo Horizonte, MG, Brasil|31330-000": {
+    "fullAddress": "Academia Pratique Fitness - Paquetá - Av. Santa Terezinha, 231 - Paquetá, Belo Horizonte - MG, 31365-000",
+    "lat": -19.8689799,
+    "lng": -43.9979534,
+    "title": "Academia Pratique Fitness - Paquetá",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "santa",
+        "terezinha"
+      ],
+      "matchingNameWords": [
+        "paqueta"
+      ]
+    },
+    "query": "Pratique Fitness Paquetá, Av. Santa Terezinha, 231, Belo Horizonte, MG, Brasil, 31330-000"
+  },
+  "Planalto|Av. Gen. Carlos Guedes, 206, Belo Horizonte, MG, Brasil|31720-500": {
+    "fullAddress": "Academia Pratique Fitness - Planalto - Av. Gen. Carlos Guedes, 208 - Planalto, Belo Horizonte - MG, 31720-500",
+    "lat": -19.8388376,
+    "lng": -43.9493798,
+    "title": "Academia Pratique Fitness - Planalto",
+    "verified": false,
+    "checks": {
+      "numberMatches": false,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "carlos",
+        "guedes"
+      ],
+      "matchingNameWords": [
+        "planalto"
+      ]
+    },
+    "query": "Pratique Fitness Planalto, Av. Gen. Carlos Guedes, 206, Belo Horizonte, MG, Brasil, 31720-500"
+  },
+  "Prado|Av. Francisco Sá, 197, Belo Horizonte, MG, Brasil|30411-145": {
+    "fullAddress": "Academia Pratique Fitness - Prado - Av. Francisco Sá, n°197 - Prado, Belo Horizonte - MG, 30410-060",
+    "lat": -19.9240603,
+    "lng": -43.959072,
+    "title": "Academia Pratique Fitness - Prado",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "francisco"
+      ],
+      "matchingNameWords": [
+        "prado"
+      ]
+    },
+    "query": "Pratique Fitness Prado, Av. Francisco Sá, 197, Belo Horizonte, MG, Brasil, 30411-145"
+  },
+  "Rio Branco|Av. Bernarda Silvestre, 78, Belo Horizonte, MG, Brasil|31535-010": {
+    "fullAddress": "Academia Pratique Fitness - Rio Branco - Av. Bernarda Silvestre, 78 - Visc. do Rio Branco, Belo Horizonte - MG, 31535-200",
+    "lat": -19.8173905,
+    "lng": -43.9832414,
+    "title": "Academia Pratique Fitness - Rio Branco",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "bernarda",
+        "silvestre"
+      ],
+      "matchingNameWords": [
+        "branco"
+      ]
+    },
+    "query": "Pratique Fitness Rio Branco, Av. Bernarda Silvestre, 78, Belo Horizonte, MG, Brasil, 31535-010"
+  },
+  "Sagrada Família|R. Conselheiro Lafaiete, 1416, Belo Horizonte, MG, Brasil|31030-010": {
+    "fullAddress": "Academia Pratique Fitness Sagrada Família - R. Conselheiro Lafaiete, 1416 - Sagrada Família, Belo Horizonte - MG, 31035-560",
+    "lat": -19.8997123,
+    "lng": -43.9230305,
+    "title": "Academia Pratique Fitness Sagrada Família",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "conselheiro",
+        "lafaiete"
+      ],
+      "matchingNameWords": [
+        "sagrada",
+        "familia"
+      ]
+    },
+    "query": "Pratique Fitness Sagrada Família, R. Conselheiro Lafaiete, 1416, Belo Horizonte, MG, Brasil, 31030-010"
+  },
+  "Santa Efigênia|Av. Mem de Sá, 271, Belo Horizonte, MG, Brasil|30260-270": {
+    "fullAddress": "Academia Pratique Fitness - Santa Efigênia - Av. Mem de Sá, 271 - Santa Efigênia, Belo Horizonte - MG, 30260-270",
+    "lat": -19.9200486,
+    "lng": -43.91055739999999,
+    "title": "Academia Pratique Fitness - Santa Efigênia",
+    "verified": false,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [],
+      "matchingNameWords": [
+        "santa",
+        "efigenia"
+      ]
+    },
+    "query": "Pratique Fitness Santa Efigênia, Av. Mem de Sá, 271, Belo Horizonte, MG, Brasil, 30260-270"
+  },
+  "Santa Inês 2|Av. José Cândido da Silveira, 2790, Belo Horizonte, MG, Brasil|31170-000": {
+    "fullAddress": "Academia Pratique Fitness - Santa Inês II - Av. José Cândido da Silveira, 2790 - Santa Ines, Belo Horizonte - MG, 31080-154",
+    "lat": -19.8780422,
+    "lng": -43.9110168,
+    "title": "Academia Pratique Fitness - Santa Inês II",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "jose",
+        "candido",
+        "silveira"
+      ],
+      "matchingNameWords": [
+        "santa",
+        "ines"
+      ]
+    },
+    "query": "Pratique Fitness Santa Inês 2, Av. José Cândido da Silveira, 2790, Belo Horizonte, MG, Brasil, 31170-000"
+  },
+  "Santa Mônica|R. Érico Veríssimo, 2345, Belo Horizonte, MG, Brasil|31520-000": {
+    "fullAddress": "Academia Pratique Fitness - Santa Mônica - R. Érico Veríssimo, 2345 - Santa Monica, Belo Horizonte - MG, 31525-365",
+    "lat": -19.823893,
+    "lng": -43.979322,
+    "title": "Academia Pratique Fitness - Santa Mônica",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "erico",
+        "verissimo"
+      ],
+      "matchingNameWords": [
+        "santa",
+        "monica"
+      ]
+    },
+    "query": "Pratique Fitness Santa Mônica, R. Érico Veríssimo, 2345, Belo Horizonte, MG, Brasil, 31520-000"
+  },
+  "São Bento|R. Michel Jeha, 178, Belo Horizonte, MG, Brasil|30350-010": {
+    "fullAddress": "Academia Pratique Fitness - São Bento - R. Michel Jeha, 178 - São Bento, Belo Horizonte - MG, 30350-330",
+    "lat": -19.9540401,
+    "lng": -43.9484888,
+    "title": "Academia Pratique Fitness - São Bento",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "michel",
+        "jeha"
+      ],
+      "matchingNameWords": [
+        "bento"
+      ]
+    },
+    "query": "Pratique Fitness São Bento, R. Michel Jeha, 178, Belo Horizonte, MG, Brasil, 30350-010"
+  },
+  "São Gabriel|R. Anapurus, 49, Belo Horizonte, MG, Brasil|31980-140": {
+    "fullAddress": "Academia Pratique Fitness - São Gabriel - R. Anapurus, 49 - São Gabriel, Belo Horizonte - MG, 31980-210",
+    "lat": -19.8563984,
+    "lng": -43.920288,
+    "title": "Academia Pratique Fitness - São Gabriel",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "anapurus"
+      ],
+      "matchingNameWords": [
+        "gabriel"
+      ]
+    },
+    "query": "Pratique Fitness São Gabriel, R. Anapurus, 49, Belo Horizonte, MG, Brasil, 31980-140"
+  },
+  "São Geraldo|R. Potomaio, 500, Belo Horizonte, MG, Brasil|31050-410": {
+    "fullAddress": "Academia Pratique Fitness - São Geraldo - Rua Potomaio, 500 - São Geraldo, Belo Horizonte - MG, 31050-640",
+    "lat": -19.9015063,
+    "lng": -43.8971233,
+    "title": "Academia Pratique Fitness - São Geraldo",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "potomaio"
+      ],
+      "matchingNameWords": [
+        "geraldo"
+      ]
+    },
+    "query": "Pratique Fitness São Geraldo, R. Potomaio, 500, Belo Horizonte, MG, Brasil, 31050-410"
+  },
+  "Serrano|Av. Serrana, 970, Belo Horizonte, MG, Brasil|30882-370": {
+    "fullAddress": "Academia Pratique Fitness - Serrano - Av. Serrana, 970 - Serrano, Belo Horizonte - MG, 30882-370",
+    "lat": -19.8771799,
+    "lng": -44.0121688,
+    "title": "Academia Pratique Fitness - Serrano",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "serrana"
+      ],
+      "matchingNameWords": [
+        "serrano"
+      ]
+    },
+    "query": "Pratique Fitness Serrano, Av. Serrana, 970, Belo Horizonte, MG, Brasil, 30882-370"
+  },
+  "Tirol|Av. Nélio Cerqueira, 1981, Belo Horizonte, MG, Brasil|30662-060": {
+    "fullAddress": "Academia Pratique Fitness - Tirol - Av. Nélio Cerqueira, 1981 - Tirol, Belo Horizonte - MG, 30662-060",
+    "lat": -19.993788,
+    "lng": -44.0445603,
+    "title": "Academia Pratique Fitness - Tirol",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "nelio",
+        "cerqueira"
+      ],
+      "matchingNameWords": [
+        "tirol"
+      ]
+    },
+    "query": "Pratique Fitness Tirol, Av. Nélio Cerqueira, 1981, Belo Horizonte, MG, Brasil, 30662-060"
+  },
+  "Vila Olímpica|R. Major Avila Goulart, 113, Belo Horizonte, MG, Brasil|31740-020": {
+    "fullAddress": "Academia Pratique Fitness - Vila Olímpica - Rua Major Avila Goulart, 113 - Planalto, Belo Horizonte - MG, 31720-240",
+    "lat": -19.8293035,
+    "lng": -43.9529601,
+    "title": "Academia Pratique Fitness - Vila Olímpica",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "major",
+        "avila",
+        "goulart"
+      ],
+      "matchingNameWords": [
+        "vila",
+        "olimpica"
+      ]
+    },
+    "query": "Pratique Fitness Vila Olímpica, R. Major Avila Goulart, 113, Belo Horizonte, MG, Brasil, 31740-020"
+  },
+  "Vilarinho|Av. Vilarinho, 5771, Belo Horizonte, MG, Brasil|31615-250": {
+    "fullAddress": "Academia Pratique Fitness - Vilarinho - Av. Vilarinho, 5771 - Nova America, Belo Horizonte - MG, 31615-250",
+    "lat": -19.8016307,
+    "lng": -43.9862269,
+    "title": "Academia Pratique Fitness - Vilarinho",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "vilarinho"
+      ],
+      "matchingNameWords": [
+        "vilarinho"
+      ]
+    },
+    "query": "Pratique Fitness Vilarinho, Av. Vilarinho, 5771, Belo Horizonte, MG, Brasil, 31615-250"
+  },
+  "Vista Alegre|R. Paiva, 39, Belo Horizonte, MG, Brasil|30514-040": {
+    "fullAddress": "Academia Pratique Fitness - Vista Alegre - R. Paiva, 39 - Vista Alegre, Belo Horizonte - MG, 30512-460",
+    "lat": -19.9514649,
+    "lng": -43.999579,
+    "title": "Academia Pratique Fitness - Vista Alegre",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "paiva"
+      ],
+      "matchingNameWords": [
+        "vista",
+        "alegre"
+      ]
+    },
+    "query": "Pratique Fitness Vista Alegre, R. Paiva, 39, Belo Horizonte, MG, Brasil, 30514-040"
+  },
+  "Cabral|Alameda dos Sabiás, 752, Contagem, MG, Brasil|32141-110": {
+    "fullAddress": "Academia Pratique Fitness - Cabral - Alameda dos Sabiás, 752 - Cabral, Contagem - MG, 32146-024",
+    "lat": -19.8780625,
+    "lng": -44.0440461,
+    "title": "Academia Pratique Fitness - Cabral",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "alameda",
+        "sabias"
+      ],
+      "matchingNameWords": [
+        "cabral"
+      ]
+    },
+    "query": "Pratique Fitness Cabral, Alameda dos Sabiás, 752, Contagem, MG, Brasil, 32141-110"
+  },
+  "Centro Contagem|R. Manoel Alves, 46, Contagem, MG, Brasil|32041-380": {
+    "fullAddress": "Academia Pratique Fitness - Centro de Contagem - R. Manoel Alves, 46 - Centro, Contagem - MG, 32041-400",
+    "lat": -19.9090716,
+    "lng": -44.0824035,
+    "title": "Academia Pratique Fitness - Centro de Contagem",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "manoel",
+        "alves"
+      ],
+      "matchingNameWords": [
+        "centro",
+        "contagem"
+      ]
+    },
+    "query": "Pratique Fitness Centro Contagem, R. Manoel Alves, 46, Contagem, MG, Brasil, 32041-380"
+  },
+  "Eldorado|Av. Antônio Olinto, 1061, Contagem, MG, Brasil|32310-410": {
+    "fullAddress": "Academia Pratique Fitness - Bom Jesus - R. 1º de Maio, 1724 - Bom Jesus, Contagem - MG, 32040-550",
+    "lat": -19.8403767,
+    "lng": -44.0300618,
+    "title": "Academia Pratique Fitness - Bom Jesus",
+    "verified": false,
+    "checks": {
+      "numberMatches": false,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": false,
+      "matchingStreetWords": [],
+      "matchingNameWords": []
+    },
+    "query": "Pratique Fitness Eldorado, Av. Antônio Olinto, 1061, Contagem, MG, Brasil, 32310-410"
+  },
+  "Castelinho|R. Damas Ribeiro, 361, Contagem, MG, Brasil|32010-000": {
+    "fullAddress": "Academia Pratique Fitness - Castelinho - R. Damas Ribeiro, 361 - Eldorado, Contagem - MG, 32310-470",
+    "lat": -19.9346232,
+    "lng": -44.0385465,
+    "title": "Academia Pratique Fitness - Castelinho",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "damas",
+        "ribeiro"
+      ],
+      "matchingNameWords": [
+        "castelinho"
+      ]
+    },
+    "query": "Pratique Fitness Castelinho, R. Damas Ribeiro, 361, Contagem, MG, Brasil, 32010-000"
+  },
+  "Oiapoque|R. Mario Vital, 168, Contagem, MG, Brasil|32315-060": {
+    "fullAddress": "Academia Pratique Fitness - Shopping Oiapoque - R. Mario Vital, 168 - Eldorado, Contagem - MG, 32315-160",
+    "lat": -19.944157,
+    "lng": -44.0414651,
+    "title": "Academia Pratique Fitness - Shopping Oiapoque",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "mario",
+        "vital"
+      ],
+      "matchingNameWords": [
+        "oiapoque"
+      ]
+    },
+    "query": "Pratique Fitness Oiapoque, R. Mario Vital, 168, Contagem, MG, Brasil, 32315-060"
+  },
+  "Industrial|Av. Cel. Benjamim Guimarães, 838, Contagem, MG, Brasil|32230-000": {
+    "fullAddress": "Academia Pratique Fitness - Industrial - Av. Coronel Benjamim Guimarães, 838 - Industrial, Contagem - MG, 32230-000",
+    "lat": -19.9750041,
+    "lng": -44.0347884,
+    "title": "Academia Pratique Fitness - Industrial",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "benjamim",
+        "guimaraes"
+      ],
+      "matchingNameWords": [
+        "industrial"
+      ]
+    },
+    "query": "Pratique Fitness Industrial, Av. Cel. Benjamim Guimarães, 838, Contagem, MG, Brasil, 32230-000"
+  },
+  "Jardim Riacho|R. Rio Comprido, 1387, Contagem, MG, Brasil|32241-000": {
+    "fullAddress": "Academia Pratique Fitness - Riacho das Pedras - R. Rio Comprido, Parque 1387 - Novo Riacho, Contagem - MG, 32280-070",
+    "lat": -19.9468968,
+    "lng": -44.0522017,
+    "title": "Academia Pratique Fitness - Riacho das Pedras",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "comprido"
+      ],
+      "matchingNameWords": [
+        "riacho"
+      ]
+    },
+    "query": "Pratique Fitness Jardim Riacho, R. Rio Comprido, 1387, Contagem, MG, Brasil, 32241-000"
+  },
+  "Nacional|R. 1º de Maio, 1724, Contagem, MG, Brasil|32183-000": {
+    "fullAddress": "Academia Pratique Fitness - Bom Jesus - R. 1º de Maio, 1724 - Bom Jesus, Contagem - MG, 32040-550",
+    "lat": -19.8403767,
+    "lng": -44.0300618,
+    "title": "Academia Pratique Fitness - Bom Jesus",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": false,
+      "matchingStreetWords": [
+        "maio"
+      ],
+      "matchingNameWords": []
+    },
+    "query": "Pratique Fitness Nacional, R. 1º de Maio, 1724, Contagem, MG, Brasil, 32183-000"
+  },
+  "Santa Helena|Av. Waldyr Soeiro Emrich, 3350, Contagem, MG, Brasil|32015-000": {
+    "fullAddress": "Academia Pratique Fitness - Santa Helena - Av. Waldyr Soeiro Emrich, 3350 - Lj 6 - Santa Helena, Belo Horizonte - MG, 30610-530",
+    "lat": -19.9899165,
+    "lng": -44.0128732,
+    "title": "Academia Pratique Fitness - Santa Helena",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": false,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "waldyr",
+        "soeiro",
+        "emrich"
+      ],
+      "matchingNameWords": [
+        "santa",
+        "helena"
+      ]
+    },
+    "query": "Pratique Fitness Santa Helena, Av. Waldyr Soeiro Emrich, 3350, Contagem, MG, Brasil, 32015-000"
+  },
+  "Santa Maria|Praça Santa Maria, 75, Contagem, MG, Brasil|32223-140": {
+    "fullAddress": "Academia Pratique Fitness - Santa Maria - Praça Santa Maria, 75 - Santa Maria, Contagem - MG, 32240-230",
+    "lat": -19.972642,
+    "lng": -44.0476379,
+    "title": "Academia Pratique Fitness - Santa Maria",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "praca",
+        "santa",
+        "maria"
+      ],
+      "matchingNameWords": [
+        "santa",
+        "maria"
+      ]
+    },
+    "query": "Pratique Fitness Santa Maria, Praça Santa Maria, 75, Contagem, MG, Brasil, 32223-140"
+  },
+  "São Joaquim|R. Diamante, 732, Contagem, MG, Brasil|32113-000": {
+    "fullAddress": "Academia Pratique Fitness - São Joaquim - R. Diamante, 732 - São Joaquim, Contagem - MG, 32113-000",
+    "lat": -19.8822651,
+    "lng": -44.0287623,
+    "title": "Academia Pratique Fitness - São Joaquim",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "diamante"
+      ],
+      "matchingNameWords": [
+        "joaquim"
+      ]
+    },
+    "query": "Pratique Fitness São Joaquim, R. Diamante, 732, Contagem, MG, Brasil, 32113-000"
+  },
+  "Shopping Contagem|Av. Severino Ballesteros, 850, Contagem, MG, Brasil|32110-005": {
+    "fullAddress": "Academia Pratique Fitness - Shopping Contagem - Av. Severino Ballesteros, 850 - Cabral, Contagem - MG, 32110-005",
+    "lat": -19.8805258,
+    "lng": -44.0382207,
+    "title": "Academia Pratique Fitness - Shopping Contagem",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "severino",
+        "ballesteros"
+      ],
+      "matchingNameWords": [
+        "shopping",
+        "contagem"
+      ]
+    },
+    "query": "Pratique Fitness Shopping Contagem, Av. Severino Ballesteros, 850, Contagem, MG, Brasil, 32110-005"
+  },
+  "Só Marcas|Av. Cardeal Eugênio Pacelli, 1280, Contagem, MG, Brasil|32210-001": {
+    "fullAddress": "Academia Pratique Fitness - Só Marcas - Av. Cardeal Eugênio Pacelli, 1280 - Cidade Industrial, Contagem - MG, 32210-002",
+    "lat": -19.9537511,
+    "lng": -44.02185009999999,
+    "title": "Academia Pratique Fitness - Só Marcas",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "cardeal",
+        "eugenio",
+        "pacelli"
+      ],
+      "matchingNameWords": [
+        "marcas"
+      ]
+    },
+    "query": "Pratique Fitness Só Marcas, Av. Cardeal Eugênio Pacelli, 1280, Contagem, MG, Brasil, 32210-001"
+  },
+  "Três Barras|Av. João de Deus Costa, 366, Contagem, MG, Brasil|32040-000": {
+    "fullAddress": "Academia Pratique Fitness - Três Barras - Av. João de Deus Costa, 366 - Tres Barras, Contagem - MG, 32040-580",
+    "lat": -19.9170222,
+    "lng": -44.0775707,
+    "title": "Academia Pratique Fitness - Três Barras",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "joao",
+        "deus",
+        "costa"
+      ],
+      "matchingNameWords": [
+        "tres",
+        "barras"
+      ]
+    },
+    "query": "Pratique Fitness Três Barras, Av. João de Deus Costa, 366, Contagem, MG, Brasil, 32040-000"
+  },
+  "Xangri-lá|R. Cerro Azul, Contagem, MG, Brasil|32186-060": {
+    "fullAddress": "Academia Pratique Fitness Parque Xangri-Lá - (Pampulha) - Av. Olavo Brasil Junior, 10 - Trevo, Contagem - MG, 31370-680",
+    "lat": -19.8343165,
+    "lng": -44.0177404,
+    "title": "Academia Pratique Fitness Parque Xangri-Lá - (Pampulha)",
+    "verified": false,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "contagem"
+      ],
+      "matchingNameWords": [
+        "xangri"
+      ]
+    },
+    "query": "Pratique Fitness Xangri-lá, R. Cerro Azul, Contagem, MG, Brasil, 32186-060"
+  },
+  "Betim 2|Av. Tapajós, 1180, Betim, MG, Brasil|32670-000": {
+    "fullAddress": "Academia Pratique Fitness - Av. Tapajós, 1180 - São Caetano, Betim - MG, 32675-700",
+    "lat": -19.9373514,
+    "lng": -44.1231849,
+    "title": "Academia Pratique Fitness",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "tapajos"
+      ],
+      "matchingNameWords": [
+        "betim"
+      ]
+    },
+    "query": "Pratique Fitness Betim 2, Av. Tapajós, 1180, Betim, MG, Brasil, 32670-000"
+  },
+  "Betim 3|Av. Bandeirantes, 275, Betim, MG, Brasil|32600-000": {
+    "fullAddress": "Academia Pratique Fitness - Chácaras, Betim - Av. Bandeirantes, 275 - Chácaras, Betim - MG, 32670-295",
+    "lat": -19.9636596,
+    "lng": -44.1901557,
+    "title": "Academia Pratique Fitness - Chácaras, Betim",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "bandeirantes"
+      ],
+      "matchingNameWords": [
+        "betim"
+      ]
+    },
+    "query": "Pratique Fitness Betim 3, Av. Bandeirantes, 275, Betim, MG, Brasil, 32600-000"
+  },
+  "Curvelo|Av. Antônio Olinto, 1060, Curvelo, MG, Brasil|35790-000": {
+    "fullAddress": "Academia Pratique Fitness - Centro de Curvelo - Av. Antônio Olinto, 1060 - Centro, Curvelo - MG, 35790-000",
+    "lat": -18.7664187,
+    "lng": -44.4304233,
+    "title": "Academia Pratique Fitness - Centro de Curvelo",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "antonio",
+        "olinto"
+      ],
+      "matchingNameWords": [
+        "curvelo"
+      ]
+    },
+    "query": "Pratique Fitness Curvelo, Av. Antônio Olinto, 1060, Curvelo, MG, Brasil, 35790-000"
+  },
+  "Diamantina|Pedra Grande, Diamantina, MG, Brasil|39100-000": {
+    "fullAddress": "Academia Pratique Fitness - Diamantina/MG - R. Matheus, 115 - Lj 11 - Diamantina, MG, 39100-000",
+    "lat": -18.2319664,
+    "lng": -43.6064657,
+    "title": "Academia Pratique Fitness - Diamantina/MG",
+    "verified": false,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "diamantina"
+      ],
+      "matchingNameWords": [
+        "diamantina"
+      ]
+    },
+    "query": "Pratique Fitness Diamantina, Pedra Grande, Diamantina, MG, Brasil, 39100-000"
+  },
+  "Divinópolis|R. Pernambuco, 440, Divinópolis, MG, Brasil|35500-008": {
+    "fullAddress": "Academia Pratique Fitness - Centro de Divinópolis - R. Pernambuco, 440 - Centro, Divinópolis - MG, 35500-008",
+    "lat": -20.1469847,
+    "lng": -44.89166059999999,
+    "title": "Academia Pratique Fitness - Centro de Divinópolis",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "pernambuco"
+      ],
+      "matchingNameWords": [
+        "divinopolis"
+      ]
+    },
+    "query": "Pratique Fitness Divinópolis, R. Pernambuco, 440, Divinópolis, MG, Brasil, 35500-008"
+  },
+  "Ibirité|R. Freitas de Oliveira, 285, Ibirité, MG, Brasil|32400-000": {
+    "fullAddress": "Academia Pratique Fitness - Ibirité Alvorada - R. Freitas de Oliveira, 285 - Alvorada, Ibirité - MG, 32400-000",
+    "lat": -20.0281455,
+    "lng": -44.0574708,
+    "title": "Academia Pratique Fitness - Ibirité Alvorada",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "freitas",
+        "oliveira"
+      ],
+      "matchingNameWords": [
+        "ibirite"
+      ]
+    },
+    "query": "Pratique Fitness Ibirité, R. Freitas de Oliveira, 285, Ibirité, MG, Brasil, 32400-000"
+  },
+  "Igarapé|Av. Gov. Valadares, 312, Igarapé, MG, Brasil|32900-000": {
+    "fullAddress": "Academia Pratique Fitness - Igarapé - Av. Gov. Valadares, 295 - Centro, Igarapé - MG, 32900-000",
+    "lat": -20.0738697,
+    "lng": -44.3043874,
+    "title": "Academia Pratique Fitness - Igarapé",
+    "verified": false,
+    "checks": {
+      "numberMatches": false,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "valadares"
+      ],
+      "matchingNameWords": [
+        "igarape"
+      ]
+    },
+    "query": "Pratique Fitness Igarapé, Av. Gov. Valadares, 312, Igarapé, MG, Brasil, 32900-000"
+  },
+  "Itabira 1|Av. Mauro Ribeiro, 1010, Itabira, MG, Brasil|35900-000": {
+    "fullAddress": "Academia Pratique Fitness - Itabira Esplanada - Av. Mauro Ribeiro, 1010 - Esplanada da Estacao, Itabira - MG, 35900-564",
+    "lat": -19.6351988,
+    "lng": -43.2320374,
+    "title": "Academia Pratique Fitness - Itabira Esplanada",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "mauro",
+        "ribeiro"
+      ],
+      "matchingNameWords": [
+        "itabira"
+      ]
+    },
+    "query": "Pratique Fitness Itabira 1, Av. Mauro Ribeiro, 1010, Itabira, MG, Brasil, 35900-000"
+  },
+  "João Monlevade 1|Av. Gentil Bicalho, 540, João Monlevade, MG, Brasil|35930-000": {
+    "fullAddress": "Academia Pratique Fitness - João Monlevade Carneirinhos - Av. Gentil Bicalho, 540 - Carneirinhos, João Monlevade - MG, 35930-478",
+    "lat": -19.8087481,
+    "lng": -43.1864478,
+    "title": "Academia Pratique Fitness - João Monlevade Carneirinhos",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "gentil",
+        "bicalho"
+      ],
+      "matchingNameWords": [
+        "joao",
+        "monlevade"
+      ]
+    },
+    "query": "Pratique Fitness João Monlevade 1, Av. Gentil Bicalho, 540, João Monlevade, MG, Brasil, 35930-000"
+  },
+  "João Monlevade 2|Av. Armando Fajardo, 1801, João Monlevade, MG, Brasil|35930-000": {
+    "fullAddress": "Academia Pratique Fitness - João Monlevade Loanda - Av. Armando Fajardo, 1801 - Loanda, João Monlevade - MG, 35930-379",
+    "lat": -19.826896,
+    "lng": -43.1629623,
+    "title": "Academia Pratique Fitness - João Monlevade Loanda",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "armando",
+        "fajardo"
+      ],
+      "matchingNameWords": [
+        "joao",
+        "monlevade"
+      ]
+    },
+    "query": "Pratique Fitness João Monlevade 2, Av. Armando Fajardo, 1801, João Monlevade, MG, Brasil, 35930-000"
+  },
+  "Lagoa Santa 1|Av. Getúlio Vargas, 2440, Lagoa Santa, MG, Brasil|33400-000": {
+    "fullAddress": "Academia Pratique Fitness - Lagoa Santa - Av. Getúlio Vargas, 2440 - Joana Darc, Lagoa Santa - MG, 33400-000",
+    "lat": -19.6437309,
+    "lng": -43.9017422,
+    "title": "Academia Pratique Fitness - Lagoa Santa",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "getulio",
+        "vargas"
+      ],
+      "matchingNameWords": [
+        "lagoa",
+        "santa"
+      ]
+    },
+    "query": "Pratique Fitness Lagoa Santa 1, Av. Getúlio Vargas, 2440, Lagoa Santa, MG, Brasil, 33400-000"
+  },
+  "Matozinhos|R. Oito de Dezembro, 18, Matozinhos, MG, Brasil|35720-000": {
+    "fullAddress": "Academia Pratique Fitness - Centro de Matozinhos - R. Oito de Dezembro, 18 - Centro, Matozinhos - MG, 35720-000",
+    "lat": -19.5582512,
+    "lng": -44.0823376,
+    "title": "Academia Pratique Fitness - Centro de Matozinhos",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "oito",
+        "dezembro"
+      ],
+      "matchingNameWords": [
+        "matozinhos"
+      ]
+    },
+    "query": "Pratique Fitness Matozinhos, R. Oito de Dezembro, 18, Matozinhos, MG, Brasil, 35720-000"
+  },
+  "Pará de Minas|R. Ricardo Marinho, 650, Pará de Minas, MG, Brasil|35660-000": {
+    "fullAddress": "Academia Pratique Fitness - Pará de Minas - R. Ricardo Marinho, 650 - São Cristovao, Pará de Minas - MG, 35660-398",
+    "lat": -19.8497475,
+    "lng": -44.6100249,
+    "title": "Academia Pratique Fitness - Pará de Minas",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "ricardo",
+        "marinho"
+      ],
+      "matchingNameWords": [
+        "para",
+        "minas"
+      ]
+    },
+    "query": "Pratique Fitness Pará de Minas, R. Ricardo Marinho, 650, Pará de Minas, MG, Brasil, 35660-000"
+  },
+  "Pedro Leopoldo|Av. Cel. Juventino Dias, 95, Pedro Leopoldo, MG, Brasil|33250-000": {
+    "fullAddress": "Academia Pratique Fitness - Pedro Leopoldo - Av. Cel. Juventino Dias, 95 - Centro, Pedro Leopoldo - MG, 33250-159",
+    "lat": -19.6268893,
+    "lng": -44.0361021,
+    "title": "Academia Pratique Fitness - Pedro Leopoldo",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "juventino",
+        "dias"
+      ],
+      "matchingNameWords": [
+        "pedro",
+        "leopoldo"
+      ]
+    },
+    "query": "Pratique Fitness Pedro Leopoldo, Av. Cel. Juventino Dias, 95, Pedro Leopoldo, MG, Brasil, 33250-000"
+  },
+  "Ribeirão das Neves 1|R. Ari Teixeira da Costa, 180, Ribeirão das Neves, MG, Brasil|33805-000": {
+    "fullAddress": "Academia Pratique Fitness - Centro de Ribeirão das Neves - R. Ari Teixeira da Costa, 180 - Centro, Ribeirão das Neves - MG, 33805-020",
+    "lat": -19.7683763,
+    "lng": -44.086347,
+    "title": "Academia Pratique Fitness - Centro de Ribeirão das Neves",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "teixeira",
+        "costa"
+      ],
+      "matchingNameWords": [
+        "ribeirao",
+        "neves"
+      ]
+    },
+    "query": "Pratique Fitness Ribeirão das Neves 1, R. Ari Teixeira da Costa, 180, Ribeirão das Neves, MG, Brasil, 33805-000"
+  },
+  "Ribeirão das Neves 2|Av. Denise Cristina da Rocha, 1001, Ribeirão das Neves, MG, Brasil|33900-000": {
+    "fullAddress": "Academia Pratique Fitness - Justinópolis - Av. Denise Cristina da Rocha, 1001 - São Januário, Ribeirão das Neves - MG, 33900-001",
+    "lat": -19.7994613,
+    "lng": -44.018438,
+    "title": "Academia Pratique Fitness - Justinópolis",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "denise",
+        "cristina",
+        "rocha"
+      ],
+      "matchingNameWords": [
+        "ribeirao",
+        "neves"
+      ]
+    },
+    "query": "Pratique Fitness Ribeirão das Neves 2, Av. Denise Cristina da Rocha, 1001, Ribeirão das Neves, MG, Brasil, 33900-000"
+  },
+  "Santa Luzia 3|Av. Brasília, 832, Santa Luzia, MG, Brasil|33100-000": {
+    "fullAddress": "Academia Pratique Fitness - São Benedito - Av. Brasília, 832 - São Benedito, Santa Luzia - MG, 33120-452",
+    "lat": -19.7936603,
+    "lng": -43.9364636,
+    "title": "Academia Pratique Fitness - São Benedito",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "brasilia"
+      ],
+      "matchingNameWords": [
+        "santa",
+        "luzia"
+      ]
+    },
+    "query": "Pratique Fitness Santa Luzia 3, Av. Brasília, 832, Santa Luzia, MG, Brasil, 33100-000"
+  },
+  "Sete Lagoas 1|R. Prof. Abeylard, 279, Sete Lagoas, MG, Brasil|35700-000": {
+    "fullAddress": "Academia Pratique Fitness Sete Lagoas (centro) - R. Prof. Abeylard, 279 - Centro, Sete Lagoas - MG, 35700-069",
+    "lat": -19.4541094,
+    "lng": -44.2468127,
+    "title": "Academia Pratique Fitness Sete Lagoas (centro)",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "prof",
+        "abeylard"
+      ],
+      "matchingNameWords": [
+        "sete",
+        "lagoas"
+      ]
+    },
+    "query": "Pratique Fitness Sete Lagoas 1, R. Prof. Abeylard, 279, Sete Lagoas, MG, Brasil, 35700-000"
+  },
+  "Sete Lagoas 2|Rua Cel. Antônio Andrade, Sete Lagoas, MG, Brasil|35700-000": {
+    "fullAddress": "Academia Pratique Fitness Sete Lagoas (centro) - R. Prof. Abeylard, 279 - Centro, Sete Lagoas - MG, 35700-069",
+    "lat": -19.4541094,
+    "lng": -44.2468127,
+    "title": "Academia Pratique Fitness Sete Lagoas (centro)",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "sete",
+        "lagoas"
+      ],
+      "matchingNameWords": [
+        "sete",
+        "lagoas"
+      ]
+    },
+    "query": "Pratique Fitness Sete Lagoas 2, Rua Cel. Antônio Andrade, Sete Lagoas, MG, Brasil, 35700-000"
+  },
+  "Vespasiano 1|R. Araticum, 200, Vespasiano, MG, Brasil|33200-000": {
+    "fullAddress": "Academia Pratique Fitness - Gávea II - R. Araticum, 200 - Angicus, Vespasiano - MG, 33200-000",
+    "lat": -19.7587385,
+    "lng": -43.9373271,
+    "title": "Academia Pratique Fitness - Gávea II",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "araticum"
+      ],
+      "matchingNameWords": [
+        "vespasiano"
+      ]
+    },
+    "query": "Pratique Fitness Vespasiano 1, R. Araticum, 200, Vespasiano, MG, Brasil, 33200-000"
+  },
+  "Abraão|R. João Meirelles, 1298, Florianópolis, SC, Brasil|88085-200": {
+    "fullAddress": "Academia Pratique Fitness - Abraão - R. João Meirelles, 1298 - Abraão, Florianópolis - SC, 88090-192",
+    "lat": -27.6053108,
+    "lng": -48.5941398,
+    "title": "Academia Pratique Fitness - Abraão",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "joao",
+        "meirelles"
+      ],
+      "matchingNameWords": [
+        "abraao"
+      ]
+    },
+    "query": "Pratique Fitness Abraão, R. João Meirelles, 1298, Florianópolis, SC, Brasil, 88085-200"
+  },
+  "Campeche|SC-405, 4397, Florianópolis, SC, Brasil|88063-000": {
+    "fullAddress": "Academia Pratique Fitness - Campeche - Rod. Francisco Magno Vieira, 4675 - Campeche, Florianópolis - SC, 88065-005",
+    "lat": -27.7025927,
+    "lng": -48.5088517,
+    "title": "Academia Pratique Fitness - Campeche",
+    "verified": false,
+    "checks": {
+      "numberMatches": false,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [],
+      "matchingNameWords": [
+        "campeche"
+      ]
+    },
+    "query": "Pratique Fitness Campeche, SC-405, 4397, Florianópolis, SC, Brasil, 88063-000"
+  },
+  "Capoeiras|R. Joaquim Carneiro, 120, Florianópolis, SC, Brasil|88085-120": {
+    "fullAddress": "Academia Pratique Fitness - Capoeiras - R. Joaquim Carneiro, 120 - Capoeiras, Florianópolis - SC, 88085-120",
+    "lat": -27.5976006,
+    "lng": -48.5933226,
+    "title": "Academia Pratique Fitness - Capoeiras",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "joaquim",
+        "carneiro"
+      ],
+      "matchingNameWords": [
+        "capoeiras"
+      ]
+    },
+    "query": "Pratique Fitness Capoeiras, R. Joaquim Carneiro, 120, Florianópolis, SC, Brasil, 88085-120"
+  },
+  "Centro Fpolis 1|R. Francisco Tolentino, 800, Florianópolis, SC, Brasil|88010-200": {
+    "fullAddress": "Academia Pratique Fitness - Centro de Florianópolis - R. Francisco Tolentino, 800 - Centro, Florianópolis - SC, 88010-200",
+    "lat": -27.5947519,
+    "lng": -48.5573804,
+    "title": "Academia Pratique Fitness - Centro de Florianópolis",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "francisco",
+        "tolentino"
+      ],
+      "matchingNameWords": [
+        "centro"
+      ]
+    },
+    "query": "Pratique Fitness Centro Fpolis 1, R. Francisco Tolentino, 800, Florianópolis, SC, Brasil, 88010-200"
+  },
+  "Centro Fpolis 2|Av. Hercílio Luz, 870, Florianópolis, SC, Brasil|88020-000": {
+    "fullAddress": "Academia Pratique Fitness - Hercílio Luz - Av. Hercílio Luz, 870 - Centro, Florianópolis - SC, 88020-001",
+    "lat": -27.5967312,
+    "lng": -48.5457613,
+    "title": "Academia Pratique Fitness - Hercílio Luz",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "hercilio"
+      ],
+      "matchingNameWords": [
+        "centro"
+      ]
+    },
+    "query": "Pratique Fitness Centro Fpolis 2, Av. Hercílio Luz, 870, Florianópolis, SC, Brasil, 88020-000"
+  },
+  "Estreito|R. Cel. Pedro Demoro, 1694, Florianópolis, SC, Brasil|88075-300": {
+    "fullAddress": "Academia Pratique Fitness - Estreito Florianópolis - Rua Araci Vaz Callado, 444 - Estreito, Florianópolis - SC, 88075-300",
+    "lat": -27.5844746,
+    "lng": -48.5805449,
+    "title": "Academia Pratique Fitness - Estreito Florianópolis",
+    "verified": false,
+    "checks": {
+      "numberMatches": false,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [],
+      "matchingNameWords": [
+        "estreito"
+      ]
+    },
+    "query": "Pratique Fitness Estreito, R. Cel. Pedro Demoro, 1694, Florianópolis, SC, Brasil, 88075-300"
+  },
+  "Itacorubi|R. Eduardo Gonçalves d'Ávila, 130, Florianópolis, SC, Brasil|88034-000": {
+    "fullAddress": "Academia Pratique Fitness - Itacorubi - R. Eduardo Gonçalves d'Ávila, 130 - Itacorubi, Florianópolis - SC, 88034-496",
+    "lat": -27.5878278,
+    "lng": -48.5022867,
+    "title": "Academia Pratique Fitness - Itacorubi",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "eduardo",
+        "goncalves",
+        "avila"
+      ],
+      "matchingNameWords": [
+        "itacorubi"
+      ]
+    },
+    "query": "Pratique Fitness Itacorubi, R. Eduardo Gonçalves d'Ávila, 130, Florianópolis, SC, Brasil, 88034-000"
+  },
+  "Jardim Atlântico SC|Av. Marinheiro Max Schramm, Florianópolis, SC, Brasil|88095-000": {
+    "fullAddress": "Academia Pratique Fitness - Jardim Atlântico - Av. Marinheiro Max Schramm - Jardim Atlântico, Florianópolis - SC, 88095-001",
+    "lat": -27.574687,
+    "lng": -48.5989371,
+    "title": "Academia Pratique Fitness - Jardim Atlântico",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "marinheiro",
+        "schramm",
+        "florianopolis"
+      ],
+      "matchingNameWords": [
+        "jardim",
+        "atlantico"
+      ]
+    },
+    "query": "Pratique Fitness Jardim Atlântico SC, Av. Marinheiro Max Schramm, Florianópolis, SC, Brasil, 88095-000"
+  },
+  "Jurerê Internacional|Rod. Jornalista Maurício Sirotski Sobrinho, 5451, Florianópolis, SC, Brasil|88053-700": {
+    "fullAddress": "Academia Pratique Fitness - Jurerê - Rodovia Jornalista Maurício Sirotski Sobrinho, 5451 - Jurerê Internacional, Florianópolis - SC, 88053-410",
+    "lat": -27.445765,
+    "lng": -48.487952,
+    "title": "Academia Pratique Fitness - Jurerê",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "jornalista",
+        "mauricio",
+        "sirotski",
+        "sobrinho"
+      ],
+      "matchingNameWords": [
+        "jurere",
+        "internacional"
+      ]
+    },
+    "query": "Pratique Fitness Jurerê Internacional, Rod. Jornalista Maurício Sirotski Sobrinho, 5451, Florianópolis, SC, Brasil, 88053-700"
+  },
+  "Trindade|R. Lauro Linhares, 589, Florianópolis, SC, Brasil|88036-000": {
+    "fullAddress": "Academia Pratique Fitness - Trindade - R. Lauro Linhares, 589 - Trindade, Florianópolis - SC, 88036-001",
+    "lat": -27.5842809,
+    "lng": -48.52454059999999,
+    "title": "Academia Pratique Fitness - Trindade",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "lauro",
+        "linhares"
+      ],
+      "matchingNameWords": [
+        "trindade"
+      ]
+    },
+    "query": "Pratique Fitness Trindade, R. Lauro Linhares, 589, Florianópolis, SC, Brasil, 88036-000"
+  },
+  "Areias|R. da Independência, 1470, São José, SC, Brasil|88113-000": {
+    "fullAddress": "Academia Pratique Fitness - Areias - R. da Independência, 1470 - Areias, São José - SC, 88113-280",
+    "lat": -27.5584934,
+    "lng": -48.6292165,
+    "title": "Academia Pratique Fitness - Areias",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "independencia"
+      ],
+      "matchingNameWords": [
+        "areias"
+      ]
+    },
+    "query": "Pratique Fitness Areias, R. da Independência, 1470, São José, SC, Brasil, 88113-000"
+  },
+  "Campinas 1|R. Eugênio Raulino Koerich, 319, São José, SC, Brasil|88101-000": {
+    "fullAddress": "Academia Pratique Fitness - Campinas - R. Eugênio Raulino Koerich, 319 - Campinas, São José - SC, 88101-060",
+    "lat": -27.5989267,
+    "lng": -48.61253989999999,
+    "title": "Academia Pratique Fitness - Campinas",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "eugenio",
+        "raulino",
+        "koerich"
+      ],
+      "matchingNameWords": [
+        "campinas"
+      ]
+    },
+    "query": "Pratique Fitness Campinas 1, R. Eugênio Raulino Koerich, 319, São José, SC, Brasil, 88101-000"
+  },
+  "Fazenda do Max|R. Benjamin Gerlach, São José, SC, Brasil|88100-000": {
+    "fullAddress": "Academia Pratique Fitness - Fazenda Santo Antônio - Rua Benjamin Gerlach, 876 - Fazenda Santo Antônio, São José - SC, 88104-400",
+    "lat": -27.6197986,
+    "lng": -48.6405343,
+    "title": "Academia Pratique Fitness - Fazenda Santo Antônio",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "benjamin",
+        "gerlach",
+        "jose"
+      ],
+      "matchingNameWords": [
+        "fazenda"
+      ]
+    },
+    "query": "Pratique Fitness Fazenda do Max, R. Benjamin Gerlach, São José, SC, Brasil, 88100-000"
+  },
+  "Forquilhas|R. Antônio Jovita Duarte, 5915, São José, SC, Brasil|88107-100": {
+    "fullAddress": "Academia Pratique Fitness - Forquilhas - R. Antônio Jovita Duarte, 5915 - Forquilhas, São José - SC, 88107-280",
+    "lat": -27.5803881,
+    "lng": -48.6761464,
+    "title": "Academia Pratique Fitness - Forquilhas",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "antonio",
+        "jovita",
+        "duarte"
+      ],
+      "matchingNameWords": [
+        "forquilhas"
+      ]
+    },
+    "query": "Pratique Fitness Forquilhas, R. Antônio Jovita Duarte, 5915, São José, SC, Brasil, 88107-100"
+  },
+  "Forquilhinhas|R. Ver. Arthur M. Mariano, 1721, São José, SC, Brasil|88106-000": {
+    "fullAddress": "Academia Pratique Fitness - Forquilhinhas - R. Ver. Arthur Manoel Mariano, 1721 - Forquilhinhas, São José - SC, 88106-501",
+    "lat": -27.5955467,
+    "lng": -48.6452501,
+    "title": "Academia Pratique Fitness - Forquilhinhas",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "arthur",
+        "mariano"
+      ],
+      "matchingNameWords": [
+        "forquilhinhas"
+      ]
+    },
+    "query": "Pratique Fitness Forquilhinhas, R. Ver. Arthur M. Mariano, 1721, São José, SC, Brasil, 88106-000"
+  },
+  "Ipiranga|Av. Osvaldo José do Amaral, 2340, São José, SC, Brasil|88111-000": {
+    "fullAddress": "Academia Pratique Fitness - Ipiranga - Av. Osvaldo José do Amaral, 2340 - Real Parque, São José - SC, 88113-310",
+    "lat": -27.5677481,
+    "lng": -48.63158749999999,
+    "title": "Academia Pratique Fitness - Ipiranga",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "osvaldo",
+        "jose",
+        "amaral"
+      ],
+      "matchingNameWords": [
+        "ipiranga"
+      ]
+    },
+    "query": "Pratique Fitness Ipiranga, Av. Osvaldo José do Amaral, 2340, São José, SC, Brasil, 88111-000"
+  },
+  "Itaguaçu|R. Gerôncio Thives, 870, São José, SC, Brasil|88108-100": {
+    "fullAddress": "Academia Pratique Fitness - Itaguaçu - R. Domingos André Zanini, 909 - Barreiros, São José - SC, 88117-200",
+    "lat": -27.5844033,
+    "lng": -48.61277519999999,
+    "title": "Academia Pratique Fitness - Itaguaçu",
+    "verified": false,
+    "checks": {
+      "numberMatches": false,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [],
+      "matchingNameWords": [
+        "itaguacu"
+      ]
+    },
+    "query": "Pratique Fitness Itaguaçu, R. Gerôncio Thives, 870, São José, SC, Brasil, 88108-100"
+  },
+  "Roçado|R. João Grumiche, 1170, São José, SC, Brasil|88108-000": {
+    "fullAddress": "Academia Pratique Fitness - Roçado - R. João Grumiche, 1765 - Roçado, São José - SC, 88108-100",
+    "lat": -27.5904839,
+    "lng": -48.6214328,
+    "title": "Academia Pratique Fitness - Roçado",
+    "verified": false,
+    "checks": {
+      "numberMatches": false,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "joao",
+        "grumiche"
+      ],
+      "matchingNameWords": [
+        "rocado"
+      ]
+    },
+    "query": "Pratique Fitness Roçado, R. João Grumiche, 1170, São José, SC, Brasil, 88108-000"
+  },
+  "Sertão Maruim|SC-281, 2665, São José, SC, Brasil|88122-000": {
+    "fullAddress": "Academia Pratique Fitness - Sertão do Maruim, Supermercado Brasil Atacadista - SC-281, 2665 - Sertão do Maruim, São José - SC, 88106-115",
+    "lat": -27.6048915,
+    "lng": -48.6671974,
+    "title": "Academia Pratique Fitness - Sertão do Maruim",
+    "verified": false,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [],
+      "matchingNameWords": [
+        "sertao",
+        "maruim"
+      ]
+    },
+    "query": "Pratique Fitness Sertão Maruim, SC-281, 2665, São José, SC, Brasil, 88122-000"
+  },
+  "Palhoça Jardim Eldorado|Av. Gentil Reinaldo Cordioli, 157, Palhoça, SC, Brasil|88133-000": {
+    "fullAddress": "Academia Pratique Fitness - Jardim Eldorado - Av. Gentil Reinaldo Cordioli, 157 - Jardim Eldorado, Palhoça - SC, 88133-500",
+    "lat": -27.6278759,
+    "lng": -48.6591855,
+    "title": "Academia Pratique Fitness - Jardim Eldorado",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "gentil",
+        "reinaldo",
+        "cordioli"
+      ],
+      "matchingNameWords": [
+        "palhoca",
+        "jardim",
+        "eldorado"
+      ]
+    },
+    "query": "Pratique Fitness Palhoça Jardim Eldorado, Av. Gentil Reinaldo Cordioli, 157, Palhoça, SC, Brasil, 88133-000"
+  },
+  "Palhoça Nova Palhoça 1|Av. Aleixo Alves de Souza, 2, Palhoça, SC, Brasil|88130-000": {
+    "fullAddress": "Academia Pratique Fitness - Nova Palhoça - Av. Aleixo Alves de Souza, 2 - Quadra 18 - Nova Palhoça, Palhoça - SC, 88131-560",
+    "lat": -27.674052,
+    "lng": -48.6638174,
+    "title": "Academia Pratique Fitness - Nova Palhoça",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "aleixo",
+        "alves",
+        "souza"
+      ],
+      "matchingNameWords": [
+        "palhoca",
+        "nova",
+        "palhoca"
+      ]
+    },
+    "query": "Pratique Fitness Palhoça Nova Palhoça 1, Av. Aleixo Alves de Souza, 2, Palhoça, SC, Brasil, 88130-000"
+  },
+  "Palhoça Ponte do Imaruim|Av. Elza Lucchi, 417, Palhoça, SC, Brasil|88130-600": {
+    "fullAddress": "Academia Pratique Fitness - Ponte do Imaruim - Av. Elza Lucchi, 417 - Pte. do Imaruim, Palhoça - SC, 88130-600",
+    "lat": -27.6333731,
+    "lng": -48.6559306,
+    "title": "Academia Pratique Fitness - Ponte do Imaruim",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "elza",
+        "lucchi"
+      ],
+      "matchingNameWords": [
+        "palhoca",
+        "ponte",
+        "imaruim"
+      ]
+    },
+    "query": "Pratique Fitness Palhoça Ponte do Imaruim, Av. Elza Lucchi, 417, Palhoça, SC, Brasil, 88130-600"
+  },
+  "Balneário Camboriú|3ª Avenida, 1055, Balneário Camboriú, SC, Brasil|88330-000": {
+    "fullAddress": "Academia Pratique Fitness - Centro de Balneário Camboriú - 3ª Avenida, 1055 - Centro, Balneário Camboriú - SC, 88330-091",
+    "lat": -26.9951955,
+    "lng": -48.6348247,
+    "title": "Academia Pratique Fitness - Centro de Balneário Camboriú",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "avenida"
+      ],
+      "matchingNameWords": [
+        "balneario",
+        "camboriu"
+      ]
+    },
+    "query": "Pratique Fitness Balneário Camboriú, 3ª Avenida, 1055, Balneário Camboriú, SC, Brasil, 88330-000"
+  },
+  "Camboriú|Rua Marmeleiro, 555, Camboriú, SC, Brasil|88340-000": {
+    "fullAddress": "Academia Pratique Fitness - Tabuleiro, Camboriú - R. Marmeleiro, 555 - Tabuleiro, Camboriú - SC, 88348-228",
+    "lat": -27.0041816,
+    "lng": -48.6556894,
+    "title": "Academia Pratique Fitness - Tabuleiro, Camboriú",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "marmeleiro"
+      ],
+      "matchingNameWords": [
+        "camboriu"
+      ]
+    },
+    "query": "Pratique Fitness Camboriú, Rua Marmeleiro, 555, Camboriú, SC, Brasil, 88340-000"
+  },
+  "Chapecó 1|Av. Getúlio Dorneles Vargas, 951, Chapecó, SC, Brasil|89800-000": {
+    "fullAddress": "Academia Pratique Fitness - Centro de Chapecó - Av. Getúlio Dorneles Vargas, 951 - Centro, Chapecó - SC, 89805-184",
+    "lat": -27.096498,
+    "lng": -52.6168312,
+    "title": "Academia Pratique Fitness - Centro de Chapecó",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "getulio",
+        "dorneles",
+        "vargas"
+      ],
+      "matchingNameWords": [
+        "chapeco"
+      ]
+    },
+    "query": "Pratique Fitness Chapecó 1, Av. Getúlio Dorneles Vargas, 951, Chapecó, SC, Brasil, 89800-000"
+  },
+  "Criciúma 2|R. Anita Garibaldi, 375, Criciúma, SC, Brasil|88800-000": {
+    "fullAddress": "Academia Pratique Fitness - Centro de Criciúma - R. Anita Garibaldi, 375 - Centro, Criciúma - SC, 88801-020",
+    "lat": -28.6777377,
+    "lng": -49.3755704,
+    "title": "Academia Pratique Fitness - Centro de Criciúma",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "anita",
+        "garibaldi"
+      ],
+      "matchingNameWords": [
+        "criciuma"
+      ]
+    },
+    "query": "Pratique Fitness Criciúma 2, R. Anita Garibaldi, 375, Criciúma, SC, Brasil, 88800-000"
+  },
+  "Içara|R. Ipiranga, 93, Içara, SC, Brasil|88820-000": {
+    "fullAddress": "Academia Pratique Fitness - Centro de Içara - R. Ipiranga, 93 - Centro, Içara - SC, 88820-000",
+    "lat": -28.712879,
+    "lng": -49.2975919,
+    "title": "Academia Pratique Fitness - Centro de Içara",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "ipiranga"
+      ],
+      "matchingNameWords": [
+        "icara"
+      ]
+    },
+    "query": "Pratique Fitness Içara, R. Ipiranga, 93, Içara, SC, Brasil, 88820-000"
+  },
+  "Itajaí|R. Heitor Liberato, 1928, Itajaí, SC, Brasil|88300-000": {
+    "fullAddress": "Academia Pratique Fitness - São João, Itajaí - R. Heitor Liberato, 1928 - São João, Itajaí - SC, 88304-101",
+    "lat": -26.9080159,
+    "lng": -48.67720569999999,
+    "title": "Academia Pratique Fitness - São João, Itajaí",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "heitor",
+        "liberato"
+      ],
+      "matchingNameWords": [
+        "itajai"
+      ]
+    },
+    "query": "Pratique Fitness Itajaí, R. Heitor Liberato, 1928, Itajaí, SC, Brasil, 88300-000"
+  },
+  "Joinville 1|R. Ministro Calógeras, 474, Joinville, SC, Brasil|89201-500": {
+    "fullAddress": "Pratique Fitness - R. Min. Calógeras, 469 - Centro, Joinville - SC, 89201-490",
+    "lat": -26.3074194,
+    "lng": -48.8445785,
+    "title": "Pratique Fitness",
+    "verified": false,
+    "checks": {
+      "numberMatches": false,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "calogeras"
+      ],
+      "matchingNameWords": [
+        "joinville"
+      ]
+    },
+    "query": "R. Ministro Calógeras, 474, Joinville, SC, Brasil, 89201-500"
+  },
+  "Joinville 2|R. Albano Schmidt, 1200, Joinville, SC, Brasil|89200-000": {
+    "fullAddress": "Academia Pratique Fitness - Boa Vista - R. Albano Schmidt, 1200 - Comasa, Joinville - SC, 89205-098",
+    "lat": -26.3042986,
+    "lng": -48.823946,
+    "title": "Academia Pratique Fitness - Boa Vista",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "albano",
+        "schmidt"
+      ],
+      "matchingNameWords": [
+        "joinville"
+      ]
+    },
+    "query": "Pratique Fitness Joinville 2, R. Albano Schmidt, 1200, Joinville, SC, Brasil, 89200-000"
+  },
+  "Navegantes|Av. Santos Dumont, 202, Navegantes, SC, Brasil|88375-000": {
+    "fullAddress": "Academia Pratique Fitness - Navegantes - Av. Santos Dumont, 202 - Centro, Navegantes - SC, 88370-000",
+    "lat": -26.8982904,
+    "lng": -48.6553565,
+    "title": "Academia Pratique Fitness - Navegantes",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "santos",
+        "dumont"
+      ],
+      "matchingNameWords": [
+        "navegantes"
+      ]
+    },
+    "query": "Pratique Fitness Navegantes, Av. Santos Dumont, 202, Navegantes, SC, Brasil, 88375-000"
+  },
+  "Tijucas|Av. Paineiras, 430, Tijucas, SC, Brasil|88200-000": {
+    "fullAddress": "Academia Pratique Fitness - Tijucas - Av. Paineiras, 470 - Universitario, Tijucas - SC, 88200-000",
+    "lat": -27.2298952,
+    "lng": -48.6464008,
+    "title": "Academia Pratique Fitness - Tijucas",
+    "verified": false,
+    "checks": {
+      "numberMatches": false,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "paineiras"
+      ],
+      "matchingNameWords": [
+        "tijucas"
+      ]
+    },
+    "query": "Pratique Fitness Tijucas, Av. Paineiras, 430, Tijucas, SC, Brasil, 88200-000"
+  },
+  "Tubarão|R. Simeão Esmeraldino de Menezes, 420, Tubarão, SC, Brasil|88700-000": {
+    "fullAddress": "Academia Pratique Fitness - Unisul, Tubarão, dentro do shopping - R. Simeão Esmeraldino de Menezes, 400 - Dehon, Tubarão - SC, 88704-090",
+    "lat": -28.4807511,
+    "lng": -49.0210437,
+    "title": "Academia Pratique Fitness - Unisul, Tubarão",
+    "verified": false,
+    "checks": {
+      "numberMatches": false,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "simeao",
+        "esmeraldino",
+        "menezes"
+      ],
+      "matchingNameWords": [
+        "tubarao"
+      ]
+    },
+    "query": "Pratique Fitness Tubarão, R. Simeão Esmeraldino de Menezes, 420, Tubarão, SC, Brasil, 88700-000"
+  },
+  "Francisco Beltrão|R. Antonina, 810, Francisco Beltrão, PR, Brasil|85601-580": {
+    "fullAddress": "Academia Pratique Fitness - Francisco Beltrão - R. Antonina, 810 - Nossa Sra. Aparecida, Francisco Beltrão - PR, 85601-580",
+    "lat": -26.078202,
+    "lng": -53.0581302,
+    "title": "Academia Pratique Fitness - Francisco Beltrão",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "antonina"
+      ],
+      "matchingNameWords": [
+        "francisco",
+        "beltrao"
+      ]
+    },
+    "query": "Pratique Fitness Francisco Beltrão, R. Antonina, 810, Francisco Beltrão, PR, Brasil, 85601-580"
+  },
+  "Pato Branco 2|R. Caramuru, 596, Pato Branco, PR, Brasil|85501-000": {
+    "fullAddress": "Academia Pratique Fitness - Centro de Pato Branco - R. Caramuru, 596 - Centro, Pato Branco - PR, 85501-051",
+    "lat": -26.2258621,
+    "lng": -52.6741573,
+    "title": "Academia Pratique Fitness - Centro de Pato Branco",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "caramuru"
+      ],
+      "matchingNameWords": [
+        "pato",
+        "branco"
+      ]
+    },
+    "query": "Pratique Fitness Pato Branco 2, R. Caramuru, 596, Pato Branco, PR, Brasil, 85501-000"
+  },
+  "Guarapari / Muquiçaba|Av. Ewerson de Abreu Sodré, 100, Guarapari, ES, Brasil|29215-010": {
+    "fullAddress": "Academia Pratique Fitness - Muquiçaba - Av. Ewerson de Abreu Sodré, 100 - Muquiçaba, Guarapari - ES, 29215-010",
+    "lat": -20.6591929,
+    "lng": -40.4974895,
+    "title": "Academia Pratique Fitness - Muquiçaba",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "ewerson",
+        "abreu",
+        "sodre"
+      ],
+      "matchingNameWords": [
+        "guarapari",
+        "muquicaba"
+      ]
+    },
+    "query": "Pratique Fitness Guarapari / Muquiçaba, Av. Ewerson de Abreu Sodré, 100, Guarapari, ES, Brasil, 29215-010"
+  },
+  "Serra / Limoeiro|Av. Desembargador Mário da Silva Nunes, 611, Serra, ES, Brasil|29164-044": {
+    "fullAddress": "Academia Pratique Fitness - Jardim Limoeiro - Av. Des. Mário da Silva Nunes, 611 - Jardim Limoeiro, Serra - ES, 29164-044",
+    "lat": -20.2145061,
+    "lng": -40.2634739,
+    "title": "Academia Pratique Fitness - Jardim Limoeiro",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "mario",
+        "silva",
+        "nunes"
+      ],
+      "matchingNameWords": [
+        "serra",
+        "limoeiro"
+      ]
+    },
+    "query": "Pratique Fitness Serra / Limoeiro, Av. Desembargador Mário da Silva Nunes, 611, Serra, ES, Brasil, 29164-044"
+  },
+  "Pratique Miami|20335 Biscayne Blvd, Suite L-201, Aventura, FL, USA|33180": {
+    "fullAddress": "Pratique Fitness & Personal Training Center, 20335 Biscayne Blvd Unit L-20, Aventura, FL 33180, Estados Unidos",
+    "lat": 25.9641676,
+    "lng": -80.1438178,
+    "title": "Pratique Fitness & Personal Training Center",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": false,
+      "matchingStreetWords": [
+        "biscayne",
+        "blvd"
+      ],
+      "matchingNameWords": []
+    },
+    "query": "Pratique Fitness Pratique Miami, 20335 Biscayne Blvd, Suite L-201, Aventura, FL, USA, 33180"
+  },
+  "Pratique Argentina|Pasco 1185, c1229 cdad. Autónoma de Buenos Aires, Argentina|C1229AAY": {
+    "fullAddress": "Gimnasio Pratique Fitness - San Cristobal, Pasco 1185, San Cristobal, C1243AAF Cdad. Autónoma de Buenos Aires, Argentina",
+    "lat": -34.6227917,
+    "lng": -58.39652969999999,
+    "title": "Gimnasio Pratique Fitness - San Cristobal",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "matchingStreetWords": [
+        "pasco",
+        "cdad",
+        "autonoma",
+        "buenos",
+        "aires"
+      ],
+      "matchingNameWords": [
+        "argentina"
+      ]
+    },
+    "query": "Pratique Fitness Pratique Argentina, Pasco 1185, c1229 cdad. Autónoma de Buenos Aires, Argentina, C1229AAY"
+  },
+  "Vale do Jatobá|Av. Senador Levindo Coelho, 1830, Belo Horizonte, MG, Brasil|30664-700": {
+    "fullAddress": "Academia Pratique Fitness - Vale do Jatobá - Av. Senador Levindo Coelho, 1830 - Mangueiras - Vale do Jatoba, Belo Horizonte - MG, 30666-420",
+    "lat": -20.0035455,
+    "lng": -44.0355471,
+    "title": "Academia Pratique Fitness - Vale do Jatobá",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "senador",
+        "levindo",
+        "coelho"
+      ],
+      "matchingNameWords": [
+        "vale",
+        "jatoba"
+      ]
+    },
+    "query": "Pratique Fitness Vale do Jatobá, Belo Horizonte, MG, Brasil"
+  },
+  "Palhoça Camelão|R. Pref. Reinoldo Alves, 41, Palhoça, SC, Brasil|88130-000": {
+    "fullAddress": "Academia Pratique Fitness - Camelão - R. Pref. Reinoldo Alves, 41 - Passa Vinte, Palhoça - SC, 88132-000",
+    "lat": -27.6395955,
+    "lng": -48.66775819999999,
+    "title": "Academia Pratique Fitness - Camelão",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "pref",
+        "reinoldo",
+        "alves"
+      ],
+      "matchingNameWords": [
+        "palhoca",
+        "camelao"
+      ]
+    },
+    "query": "Pratique Fitness Palhoça Camelão, Palhoça, SC, Brasil"
+  },
+  "Palhoça Centro/Pier|Av. Pref. Nelson Martins, 780, Palhoça, SC, Brasil|88130-000": {
+    "fullAddress": "Academia Pratique Fitness - Centro de Palhoça - Av. Pref. Nelson Martins, 780 - Centro, Palhoça - SC, 88131-300",
+    "lat": -27.6534326,
+    "lng": -48.673474,
+    "title": "Academia Pratique Fitness - Centro de Palhoça",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "pref",
+        "nelson",
+        "martins"
+      ],
+      "matchingNameWords": [
+        "palhoca",
+        "centro"
+      ]
+    },
+    "query": "Pratique Fitness Palhoça Centro/Pier, Palhoça, SC, Brasil"
+  },
+  "Palhoça São Sebastião|R. Marino Jorge dos Santos, 369, Palhoça, SC, Brasil|88136-000": {
+    "fullAddress": "Academia Pratique Fitness - São Sebastião - R. Marino Jorge dos Santos, 369 - São Sebastiao, Palhoça - SC, 88136-200",
+    "lat": -27.6431573,
+    "lng": -48.7120253,
+    "title": "Academia Pratique Fitness - São Sebastião",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "marino",
+        "jorge",
+        "santos"
+      ],
+      "matchingNameWords": [
+        "palhoca",
+        "sebastiao"
+      ]
+    },
+    "query": "Pratique Fitness Palhoça São Sebastião, Palhoça, SC, Brasil"
+  },
+  "Biguaçu 1|R. Cel. Teixeira de Oliveira, 243, Biguaçu, SC, Brasil|88160-000": {
+    "fullAddress": "Academia Pratique Fitness - Biguaçu - R. Cel. Teixeira de Oliveira, 243 - Centro, Biguaçu - SC, 88160-130",
+    "lat": -27.4981967,
+    "lng": -48.6547615,
+    "title": "Academia Pratique Fitness - Biguaçu",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "teixeira",
+        "oliveira"
+      ],
+      "matchingNameWords": [
+        "biguacu"
+      ]
+    },
+    "query": "Pratique Fitness Biguaçu 1, R. Cel. Teixeira de Oliveira, 243, Biguaçu, SC, Brasil, 88160-000"
+  },
+  "Pato Branco 1|Av. Tupi, 1000, Pato Branco, PR, Brasil|85501-000": {
+    "fullAddress": "Academia Pratique Fitness - Centro de Pato Branco - R. Caramuru, 596 - Centro, Pato Branco - PR, 85501-051",
+    "lat": -26.2258621,
+    "lng": -52.6741573,
+    "title": "Academia Pratique Fitness - Centro de Pato Branco",
+    "verified": true,
+    "checks": {
+      "numberMatches": false,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": false,
+      "exactBusiness": true,
+      "matchingStreetWords": [],
+      "matchingNameWords": [
+        "pato",
+        "branco"
+      ]
+    },
+    "query": "Pratique Fitness Pato Branco 1, Pato Branco, PR, Brasil"
+  },
+  "Buritis|Av. Senador José Augusto, 315, Belo Horizonte, MG, Brasil|30575-190": {
+    "fullAddress": "Av. Sen. José Augusto, 315 - Buritis, Belo Horizonte - MG, 30575-847",
+    "lat": -19.9800117,
+    "lng": -43.9776911,
+    "title": "Av. Sen. José Augusto, 315 - Buritis",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "jose",
+        "augusto"
+      ],
+      "matchingNameWords": [
+        "buritis"
+      ]
+    },
+    "query": "Av. Senador José Augusto, 315, Belo Horizonte, MG, Brasil, 30575-190"
+  },
+  "Camargos 2|R. Alípio de Castro, Belo Horizonte, MG, Brasil|30520-210": {
+    "fullAddress": "R. Alípio de Castro - Maria Goretti, Belo Horizonte - MG, 31930-740",
+    "lat": -19.8641646,
+    "lng": -43.9135882,
+    "title": "R. Alípio de Castro - Maria Goretti",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": false,
+      "exactAddress": true,
+      "exactBusiness": false,
+      "matchingStreetWords": [
+        "alipio",
+        "castro",
+        "belo",
+        "horizonte"
+      ],
+      "matchingNameWords": []
+    },
+    "query": "R. Alípio de Castro, Belo Horizonte, MG, Brasil, 30520-210"
+  },
+  "Floramar|R. José Ferreira Magalhães, 403, Belo Horizonte, MG, Brasil|31740-190": {
+    "fullAddress": "R. José Ferreira Magalhães, 403 - Floramar, Belo Horizonte - MG, 31742-093",
+    "lat": -19.8339424,
+    "lng": -43.9306754,
+    "title": "R. José Ferreira Magalhães, 403 - Floramar",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "jose",
+        "ferreira",
+        "magalhaes"
+      ],
+      "matchingNameWords": [
+        "floramar"
+      ]
+    },
+    "query": "R. José Ferreira Magalhães, 403, Belo Horizonte, MG, Brasil, 31740-190"
+  },
+  "Jatobá|R. Trem de Ferro, 97, Belo Horizonte, MG, Brasil|30664-000": {
+    "fullAddress": "R. Trem de Ferro, 97 - Jatobá, Belo Horizonte - MG, 30692-290",
+    "lat": -19.9907274,
+    "lng": -44.0549942,
+    "title": "R. Trem de Ferro, 97 - Jatobá",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "trem",
+        "ferro"
+      ],
+      "matchingNameWords": [
+        "jatoba"
+      ]
+    },
+    "query": "R. Trem de Ferro, 97, Belo Horizonte, MG, Brasil, 30664-000"
+  },
+  "Ouro Preto / Ouro Preto 2|R. Monteiro Lobato, 167, Belo Horizonte, MG, Brasil|31310-530": {
+    "fullAddress": "R. Monteiro Lobato, 167 - Ouro Preto, Belo Horizonte - MG, 31310-530",
+    "lat": -19.8715534,
+    "lng": -43.98354579999999,
+    "title": "R. Monteiro Lobato, 167 - Ouro Preto",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "monteiro",
+        "lobato"
+      ],
+      "matchingNameWords": [
+        "ouro",
+        "preto",
+        "ouro",
+        "preto"
+      ]
+    },
+    "query": "R. Monteiro Lobato, 167, Belo Horizonte, MG, Brasil, 31310-530"
+  },
+  "Santa Inês|R. Contagem, 1740, Belo Horizonte, MG, Brasil|30820-000": {
+    "fullAddress": "R. Contagem, 1740 - Santa Ines, Sabará - MG, 31080-055",
+    "lat": -19.8813193,
+    "lng": -43.9080135,
+    "title": "R. Contagem, 1740 - Santa Ines",
+    "verified": false,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": false,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": false,
+      "exactBusiness": false,
+      "matchingStreetWords": [
+        "contagem"
+      ],
+      "matchingNameWords": [
+        "santa",
+        "ines"
+      ]
+    },
+    "query": "R. Contagem, 1740, Belo Horizonte, MG, Brasil, 30820-000"
+  },
+  "Cabral Performance|Alameda dos Sabiás, 723, Contagem, MG, Brasil|32141-110": {
+    "fullAddress": "Alameda dos Sabiás, 723 - Cabral, Contagem - MG, 32146-024",
+    "lat": -19.8785235,
+    "lng": -44.04412809999999,
+    "title": "Alameda dos Sabiás, 723 - Cabral",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "alameda",
+        "sabias"
+      ],
+      "matchingNameWords": [
+        "cabral"
+      ]
+    },
+    "query": "Alameda dos Sabiás, 723, Contagem, MG, Brasil, 32141-110"
+  },
+  "Betim 1|Av. Edmeia Matos Lazzarotti, 3238, Betim, MG, Brasil|32604-115": {
+    "fullAddress": "Av. Edmeia Matos Lazzarotti, 3238 - Decamao, Betim - MG, 32603-040",
+    "lat": -19.9694212,
+    "lng": -44.21221389999999,
+    "title": "Av. Edmeia Matos Lazzarotti, 3238 - Decamao",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "edmeia",
+        "matos",
+        "lazzarotti"
+      ],
+      "matchingNameWords": [
+        "betim"
+      ]
+    },
+    "query": "Av. Edmeia Matos Lazzarotti, 3238, Betim, MG, Brasil, 32604-115"
+  },
+  "Itabira 2|Av. Dr. Pedro Guerra, 216, Itabira, MG, Brasil|35900-000": {
+    "fullAddress": "Av. Dr. Pedro Guerra, 216 - Gabiroba (1ª Seção), Itabira - MG, 35900-431",
+    "lat": -19.6519443,
+    "lng": -43.215588,
+    "title": "Av. Dr. Pedro Guerra, 216 - Gabiroba (1ª Seção)",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "pedro",
+        "guerra"
+      ],
+      "matchingNameWords": [
+        "itabira"
+      ]
+    },
+    "query": "Av. Dr. Pedro Guerra, 216, Itabira, MG, Brasil, 35900-000"
+  },
+  "Lagoa Santa 2|R. Pinto Alves, 4080, Lagoa Santa, MG, Brasil|33400-000": {
+    "fullAddress": "R. Pinto Alves, 4080 - A Definiir Em Campo, Lagoa Santa - MG, 33400-000",
+    "lat": -19.593152,
+    "lng": -43.908618,
+    "title": "R. Pinto Alves, 4080 - A Definiir Em Campo",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "pinto",
+        "alves"
+      ],
+      "matchingNameWords": [
+        "lagoa",
+        "santa"
+      ]
+    },
+    "query": "R. Pinto Alves, 4080, Lagoa Santa, MG, Brasil, 33400-000"
+  },
+  "Ribeirão das Neves 3|Av. Osvaldo Alves Araújo, 599, Ribeirão das Neves, MG, Brasil|33800-000": {
+    "fullAddress": "Av. Osvaldo Alves Araújo, 599 - Veneza, Ribeirão das Neves - MG, 33820-272",
+    "lat": -19.7677861,
+    "lng": -44.1354264,
+    "title": "Av. Osvaldo Alves Araújo, 599 - Veneza",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "osvaldo",
+        "alves",
+        "araujo"
+      ],
+      "matchingNameWords": [
+        "ribeirao",
+        "neves"
+      ]
+    },
+    "query": "Av. Osvaldo Alves Araújo, 599, Ribeirão das Neves, MG, Brasil, 33800-000"
+  },
+  "Santa Luzia 1|Av. Bernardo Guimarães, 280, Santa Luzia, MG, Brasil|33000-000": {
+    "fullAddress": "Av. Bernardo Guimarães, 280 - Londrina, Santa Luzia - MG, 33115-650",
+    "lat": -19.7960024,
+    "lng": -43.9218781,
+    "title": "Av. Bernardo Guimarães, 280 - Londrina",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "bernardo",
+        "guimaraes"
+      ],
+      "matchingNameWords": [
+        "santa",
+        "luzia"
+      ]
+    },
+    "query": "Av. Bernardo Guimarães, 280, Santa Luzia, MG, Brasil, 33000-000"
+  },
+  "Santa Luzia 2|Rod. Camilo Teixeira da Costa, 6355, Santa Luzia, MG, Brasil|33000-000": {
+    "fullAddress": "Rod. Camilo Teixeira da Costa, 6355 - Monte Azul, Belo Horizonte - MG, 31872-810",
+    "lat": -19.8166839,
+    "lng": -43.8862764,
+    "title": "Rod. Camilo Teixeira da Costa, 6355 - Monte Azul",
+    "verified": false,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": false,
+      "postalMatches": false,
+      "nameMatches": false,
+      "exactAddress": false,
+      "exactBusiness": false,
+      "matchingStreetWords": [
+        "camilo",
+        "teixeira",
+        "costa"
+      ],
+      "matchingNameWords": []
+    },
+    "query": "Rod. Camilo Teixeira da Costa, 6355, Santa Luzia, MG, Brasil, 33000-000"
+  },
+  "Vespasiano 2|R. Um, 838, Vespasiano, MG, Brasil|33200-000": {
+    "fullAddress": "R. Um, 838 - Jequitibá, Vespasiano - MG, 33203-440",
+    "lat": -19.7738533,
+    "lng": -43.9584232,
+    "title": "R. Um, 838 - Jequitibá",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": false,
+      "exactBusiness": true,
+      "matchingStreetWords": [],
+      "matchingNameWords": [
+        "vespasiano"
+      ]
+    },
+    "query": "R. Um, 838, Vespasiano, MG, Brasil, 33200-000"
+  },
+  "Ingleses 1|Est. Dom João Becker, 1202, Florianópolis, SC, Brasil|88058-600": {
+    "fullAddress": "Estr. Dom João Becker, 1202 - Ingleses do Rio Vermelho, Florianópolis - SC, 88058-600",
+    "lat": -27.4408126,
+    "lng": -48.3853513,
+    "title": "Estr. Dom João Becker, 1202 - Ingleses do Rio Vermelho",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "joao",
+        "becker"
+      ],
+      "matchingNameWords": [
+        "ingleses"
+      ]
+    },
+    "query": "Est. Dom João Becker, 1202, Florianópolis, SC, Brasil, 88058-600"
+  },
+  "Ingleses 2|R. Graciliano M. Gomes, 423, Florianópolis, SC, Brasil|88058-000": {
+    "fullAddress": "R. Graciliano Manoel Gomes, 423 - Ingleses do Rio Vermelho, Florianópolis - SC, 88058-200",
+    "lat": -27.4430909,
+    "lng": -48.4090036,
+    "title": "R. Graciliano Manoel Gomes, 423 - Ingleses do Rio Vermelho",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "graciliano",
+        "gomes"
+      ],
+      "matchingNameWords": [
+        "ingleses"
+      ]
+    },
+    "query": "R. Graciliano M. Gomes, 423, Florianópolis, SC, Brasil, 88058-000"
+  },
+  "Ingleses 3|Av. Pref. Nelson Martins, Florianópolis, SC, Brasil|88058-000": {
+    "fullAddress": "Av. Pref. Nelson Martins - Centro, Palhoça - SC, 88131-300",
+    "lat": -27.6525322,
+    "lng": -48.6724651,
+    "title": "Av. Pref. Nelson Martins - Centro",
+    "verified": false,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": false,
+      "postalMatches": false,
+      "nameMatches": false,
+      "exactAddress": false,
+      "exactBusiness": false,
+      "matchingStreetWords": [
+        "pref",
+        "nelson",
+        "martins"
+      ],
+      "matchingNameWords": []
+    },
+    "query": "Av. Pref. Nelson Martins, Florianópolis, SC, Brasil"
+  },
+  "Bela Vista Bistek|R. Santa Catarina, 1041, São José, SC, Brasil|88110-000": {
+    "fullAddress": "R. Santa Catarina, 1041 - Bela Vista, São José - SC, 88110-300",
+    "lat": -27.5756446,
+    "lng": -48.6236571,
+    "title": "R. Santa Catarina, 1041 - Bela Vista",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "santa",
+        "catarina"
+      ],
+      "matchingNameWords": [
+        "bela",
+        "vista"
+      ]
+    },
+    "query": "R. Santa Catarina, 1041, São José, SC, Brasil, 88110-000"
+  },
+  "Campinas 2|Av. Salvador di Bernardi, 855, São José, SC, Brasil|88101-000": {
+    "fullAddress": "Av. Salvador di Bernardi, 855 - Campinas, São José - SC, 88101-260",
+    "lat": -27.5949315,
+    "lng": -48.6110284,
+    "title": "Av. Salvador di Bernardi, 855 - Campinas",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "salvador",
+        "bernardi"
+      ],
+      "matchingNameWords": [
+        "campinas"
+      ]
+    },
+    "query": "Av. Salvador di Bernardi, 855, São José, SC, Brasil, 88101-000"
+  },
+  "Palhoça Aririu|Av. Bom Jesus de Nazaré, 935, Palhoça, SC, Brasil|88135-000": {
+    "fullAddress": "Av. Bom Jesus de Nazaré, 935 - Aririu, Palhoça - SC, 88135-100",
+    "lat": -27.6725305,
+    "lng": -48.6756784,
+    "title": "Av. Bom Jesus de Nazaré, 935 - Aririu",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "jesus",
+        "nazare"
+      ],
+      "matchingNameWords": [
+        "palhoca",
+        "aririu"
+      ]
+    },
+    "query": "Av. Bom Jesus de Nazaré, 935, Palhoça, SC, Brasil, 88135-000"
+  },
+  "Palhoça Bela Vista|Av. Paulo Roberto Vidal, 55, Palhoça, SC, Brasil|88132-000": {
+    "fullAddress": "Av. Paulo Roberto Vidal, 55 - Caminho Novo, Palhoça - SC, 88132-596",
+    "lat": -27.6492742,
+    "lng": -48.6894759,
+    "title": "Av. Paulo Roberto Vidal, 55 - Caminho Novo",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "paulo",
+        "roberto",
+        "vidal"
+      ],
+      "matchingNameWords": [
+        "palhoca"
+      ]
+    },
+    "query": "Av. Paulo Roberto Vidal, 55, Palhoça, SC, Brasil, 88132-000"
+  },
+  "Palhoça Nova Palhoça 2|Av. Rio Grande, 1600, Palhoça, SC, Brasil|88130-000": {
+    "fullAddress": "Av. Rio Grande, 1600 - Rio Grande, Palhoça - SC, 88131-601",
+    "lat": -27.6639652,
+    "lng": -48.65839099999999,
+    "title": "Av. Rio Grande, 1600 - Rio Grande",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "grande"
+      ],
+      "matchingNameWords": [
+        "palhoca",
+        "palhoca"
+      ]
+    },
+    "query": "Av. Rio Grande, 1600, Palhoça, SC, Brasil, 88130-000"
+  },
+  "Palhoça Pagani 1|Av. Atílio Pedro Pagani, 1300, Palhoça, SC, Brasil|88132-000": {
+    "fullAddress": "Av. Atílio Pedro Pagani, 1300 - Pagani, Palhoça - SC",
+    "lat": -27.6390483,
+    "lng": -48.6827811,
+    "title": "Av. Atílio Pedro Pagani, 1300 - Pagani",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "atilio",
+        "pedro",
+        "pagani"
+      ],
+      "matchingNameWords": [
+        "palhoca",
+        "pagani"
+      ]
+    },
+    "query": "Av. Atílio Pedro Pagani, 1300, Palhoça, SC, Brasil, 88132-000"
+  },
+  "Palhoça Pagani 2|Av. Atílio Pedro Pagani, 1413, Palhoça, SC, Brasil|88132-000": {
+    "fullAddress": "Av. Atílio Pedro Pagani, 1413 - Pagani, Palhoça - SC, 88132-149",
+    "lat": -27.6406652,
+    "lng": -48.6835537,
+    "title": "Av. Atílio Pedro Pagani, 1413 - Pagani",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "atilio",
+        "pedro",
+        "pagani"
+      ],
+      "matchingNameWords": [
+        "palhoca",
+        "pagani"
+      ]
+    },
+    "query": "Av. Atílio Pedro Pagani, 1413, Palhoça, SC, Brasil, 88132-000"
+  },
+  "Palhoça Pedra Branca|Av. Pedra Branca, 744, Palhoça, SC, Brasil|88137-000": {
+    "fullAddress": "Av. Pedra Branca, 744 - Cidade Universitária Pedra Branca, Palhoça - SC, 88137-245",
+    "lat": -27.6238516,
+    "lng": -48.6815605,
+    "title": "Av. Pedra Branca, 744 - Cidade Universitária Pedra Branca",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "pedra",
+        "branca"
+      ],
+      "matchingNameWords": [
+        "palhoca",
+        "pedra",
+        "branca"
+      ]
+    },
+    "query": "Av. Pedra Branca, 744, Palhoça, SC, Brasil, 88137-000"
+  },
+  "Biguaçu 2|R. Júlio Teodoro Martins, 3032, Biguaçu, SC, Brasil|88160-000": {
+    "fullAddress": "R. Júlio Teodoro Martins, 3032 - Fundos, Biguaçu - SC, 88161-400",
+    "lat": -27.5172045,
+    "lng": -48.6516873,
+    "title": "R. Júlio Teodoro Martins, 3032 - Fundos",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "julio",
+        "teodoro",
+        "martins"
+      ],
+      "matchingNameWords": [
+        "biguacu"
+      ]
+    },
+    "query": "R. Júlio Teodoro Martins, 3032, Biguaçu, SC, Brasil, 88160-000"
+  },
+  "Chapecó 2|R. Cunha Porã, 378, Chapecó, SC, Brasil|89800-000": {
+    "fullAddress": "R. Cunha Porã, 378 - Efapi, Chapecó - SC, 89809-556",
+    "lat": -27.0990302,
+    "lng": -52.67391869999999,
+    "title": "R. Cunha Porã, 378 - Efapi",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "cunha",
+        "pora"
+      ],
+      "matchingNameWords": [
+        "chapeco"
+      ]
+    },
+    "query": "R. Cunha Porã, 378, Chapecó, SC, Brasil, 89800-000"
+  },
+  "Criciúma 1|R. José Gaidzinki, 125, Criciúma, SC, Brasil|88800-000": {
+    "fullAddress": "R. José Gaidzinski, 125 - Pio Corrêa, Criciúma - SC, 88811-515",
+    "lat": -28.6774357,
+    "lng": -49.3600328,
+    "title": "R. José Gaidzinski, 125 - Pio Corrêa",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": false,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "jose"
+      ],
+      "matchingNameWords": [
+        "criciuma"
+      ]
+    },
+    "query": "R. José Gaidzinki, 125, Criciúma, SC, Brasil, 88800-000"
+  },
+  "Itapema / Meia Praia|Terceira Av., 503, Itapema, SC, Brasil|88220-000": {
+    "fullAddress": "3ª Av., 503 - Meia Praia, Itapema - SC, 88220-000",
+    "lat": -27.1316456,
+    "lng": -48.6061089,
+    "title": "3ª Av., 503 - Meia Praia",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "exactAddress": false,
+      "exactBusiness": true,
+      "matchingStreetWords": [],
+      "matchingNameWords": [
+        "itapema",
+        "meia",
+        "praia"
+      ]
+    },
+    "query": "Terceira Av., 503, Itapema, SC, Brasil, 88220-000"
+  },
+  "Santo Amaro da Imperatriz|R. Intendente Broering, 3117, Santo Amaro da Imperatriz, SC, Brasil|88140-000": {
+    "fullAddress": "R. Leopoldo Broering, 3117 - Vila Becker, Santo Amaro da Imperatriz - SC, 88140-000",
+    "lat": -27.6825954,
+    "lng": -48.7523513,
+    "title": "R. Leopoldo Broering, 3117 - Vila Becker",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": false,
+      "cityMatches": true,
+      "postalMatches": true,
+      "nameMatches": true,
+      "exactAddress": false,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "broering"
+      ],
+      "matchingNameWords": [
+        "santo",
+        "amaro",
+        "imperatriz"
+      ]
+    },
+    "query": "R. Intendente Broering, 3117, Santo Amaro da Imperatriz, SC, Brasil, 88140-000"
+  },
+  "Mangabeiras|Av. dos Bandeirantes, 1550, Belo Horizonte, MG, Brasil|30315-032": {
+    "fullAddress": "Academia Pratique Fitness - Mangabeiras - Av. dos Bandeirantes, 1550 - Mangabeiras, Belo Horizonte - MG, 30210-420",
+    "lat": -19.9505609,
+    "lng": -43.92209889999999,
+    "title": "Academia Pratique Fitness - Mangabeiras",
+    "verified": true,
+    "checks": {
+      "numberMatches": true,
+      "streetMatches": true,
+      "cityMatches": true,
+      "postalMatches": false,
+      "nameMatches": true,
+      "exactAddress": true,
+      "exactBusiness": true,
+      "matchingStreetWords": [
+        "bandeirantes"
+      ],
+      "matchingNameWords": [
+        "mangabeiras"
+      ]
+    },
+    "query": "Pratique Fitness Mangabeiras, Av. dos Bandeirantes, 1550, Belo Horizonte, MG, Brasil, 30315-032"
+  }
+}

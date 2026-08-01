@@ -16,6 +16,9 @@ export const Header: React.FC<HeaderProps> = ({ profile }) => {
           alt={profile.name}
           className="avatar-img"
           loading="eager"
+          decoding="async"
+          width="108"
+          height="108"
         />
         {profile.isVerified && (
           <div className="verified-badge" title="Perfil Verificado">
@@ -35,7 +38,7 @@ export const Header: React.FC<HeaderProps> = ({ profile }) => {
       {/* Name and Title */}
       <h1 className="trainer-name">{profile.name}</h1>
       <p className="trainer-title">{profile.title}</p>
-      
+
       {/* Bio */}
       <p className="trainer-bio">{profile.bio}</p>
 

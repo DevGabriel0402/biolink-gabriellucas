@@ -51,8 +51,10 @@ export const LinkCard: React.FC<LinkCardProps> = ({ link, onClick }) => {
       onClick={() => onClick(link)}
       role="button"
       tabIndex={0}
+      aria-label={`${link.title}${link.subtitle ? `. ${link.subtitle}` : ''}`}
       onKeyDown={(e) => {
         if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
           onClick(link);
         }
       }}
